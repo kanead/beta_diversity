@@ -19,7 +19,6 @@ library(reshape2)
 #------------------------------------------------------------------------------------------------------------------------------------------------------
 # input data community data
 
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/Community analyses")
 
 batsp <- read.table("Bats_spp1.csv", sep=",", head = TRUE, row.names = 1)
 bat_pres_abs <- ifelse(batsp>0,1,0)  # convert to presence-absence
@@ -251,14 +250,12 @@ shrew.betadiversity <- shrew.betadiversity.sor %>%
 # save all taxonomic beta diversity output as csv files
 
 # this combines all components (Bsor, Bsim, Bnes) into a single csv file, separately for each group
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Betadiversity all_FINAL")
 
 write.csv(bat.betadiversity, "bat.taxonomic.betadiversity.csv")
 write.csv(rat.betadiversity, "rat.taxonomic.betadiversity.csv")
 write.csv(shrew.betadiversity, "shrew.taxonomic.betadiversity.csv")
 
 # this saves each component separately for each group
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Taxonomic betadiversity - between sites across all regions")
 
 write.csv(bat.sor.output, "bat.sor.between all sites.csv")
 write.csv(bat.sim.output, "bat.sim.between all sites.csv")
@@ -598,7 +595,6 @@ shrew.fbetadiversity <- shrew.fbetadiversity.sor %>%
 # save all functional beta diversity output as csv files
 
 # this combines all components (Bsor, Bsim, Bnes) into a single csv file, separately for each group
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Betadiversity all_FINAL")
 
 write.csv(bat.fbetadiversity, "bat.functional.betadiversity.csv")
 write.csv(rat.fbetadiversity, "rat.functional.betadiversity.csv")
@@ -606,7 +602,6 @@ write.csv(shrew.fbetadiversity, "shrew.functional.betadiversity.csv")
 
 # this saves each component separately for each group
 
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Functional betadiversity - between sites across all regions")
 
 # for bats
 write.csv(bat.fsor.output, "bat.func_sor.between all sites.csv")
