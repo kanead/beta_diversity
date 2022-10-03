@@ -49,9 +49,7 @@ nb2ggplot <- function(nb, coord) {
 set.seed(2020)
 #-------------------------------------------------------------------------------------------------------------------------------------------
 #' load the locations
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/Community analyses")
-
-batsite <- read.table("Bats_sites1.csv", sep = ",", head = TRUE)
+batsite <- read.table("data/Bats_sites1.csv", sep = ",", head = TRUE)
 batlocs <- batsite %>% dplyr::select(Longitude, Latitude)
 batlocs <- batlocs %>% rename(long = Longitude)
 batlocs <- batlocs %>% rename(lat = Latitude)
@@ -63,15 +61,14 @@ batlocs.func <- batsite %>% filter(Location %ni% c("ZAR_Kalahari", "ETH_Simien")
 bat.xy.func <- as.matrix(batlocs.func) 
 
 batsp1 <-
-  read.table("Bats_spp1.csv",
+  read.table("data/Bats_spp1.csv",
              sep = ",",
              head = TRUE,
              row.names = 1)
 batsp <- ifelse(batsp1 > 0, 1, 0)  # convert to presence-absence
 
 # get environmental (BIOCLIM) data
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/bioclim_data")
-enviro.bat1 <- read.csv("bioclim.bat.tax.csv")
+enviro.bat1 <- read.csv("data/bioclim.bat.tax.csv")
 enviro.bat <- enviro.bat1[,3:23]
 
 # now select those variables based on allsites VIF selection (see below)
@@ -84,8 +81,7 @@ env.bat.func <- enviro.bat1[,3:24] %>% filter(Location %ni% c("ZAR_Kalahari", "E
 
 
 # Redo the variable selection based on ALL sites for small mammals (bats, rats, shrews)
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/bioclim_data")
-enviro.allsites1 <- read.csv("bioclim.allsites.tax.csv")
+enviro.allsites1 <- read.csv("data/bioclim.allsites.tax.csv")
 enviro.allsites <- enviro.allsites1[,3:23]
 
 vif(enviro.allsites)
@@ -149,8 +145,7 @@ env.allsites.final <- enviro.allsites %>% dplyr::select(alt, alt_rough, bio_2, b
 #-------------------------------------------------------------------------------------------------------------------------------------------
 # call on some shapefiles for plotting maps
 
-setwd("C:/Dropbox/Ara/GIS_Q/Biogeographic_regions_Africa-Linder")
-biogeog1 <- readOGR("Bioregions_Linder_clipped_simplified.shp")
+biogeog1 <- readOGR("data/Bioregions_Linder_clipped_simplified.shp")
 proj <- "+proj=laea +lon_0=0 +lat_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"
 proj1 <- '+proj=longlat + datum=WGS84'
 biogeog <- spTransform(biogeog1, CRS(proj1))
@@ -301,9 +296,8 @@ bat.select <-
   )
 
 # now save this object 'bat.select' so that we don't have to rerun this!
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
-save(bat.select, file = "bat.select.RData")
-load("bat.select.RData")
+save(bat.select, file = "data/bat.select.RData")
+load("data/bat.select.RData")
 
 # Optimised selected SWM:
 bat.select$best.id
@@ -333,9 +327,8 @@ bat.select.res <-
   )
 bat.MEM.sel.res <- bat.select.res$best$MEM.select
 bat.select.res$candidates
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
-save(bat.select.res, file = "bat.select.res.RData")
-load("bat.select.res.RData")
+save(bat.select.res, file = "data/bat.select.res.RData")
+load("data/bat.select.res.RData")
 
 # now run this thru the same analysis but with dudi.pco of beta diversity (bat.beta.pco = taxonomic Bsim)
 # beta diversity pco calculated in 'aBetadiversity MEMs_Final.R'
@@ -349,9 +342,8 @@ bat.select.beta.tax <-
   )
 bat.MEM.sel.beta.tax <- bat.select.beta.tax$best$MEM.select
 bat.select.beta.tax$candidates
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
-save(bat.MEM.sel.beta.tax, file = "bat.MEM.sel.beta.tax.RData")
-load("bat.MEM.sel.beta.tax.RData")
+save(bat.MEM.sel.beta.tax, file = "data/bat.MEM.sel.beta.tax.RData")
+load("data/bat.MEM.sel.beta.tax.RData")
 
 # now run this thru the same analysis but with dudi.pco of beta diversity (bats.func.beta.pco = functional Bsim)
 # beta diversity pco calculated in 'aBetadiversity MEMs_Final.R'
@@ -378,9 +370,8 @@ bat.select.beta.func <-
   )
 bat.MEM.sel.beta.func <- bat.select.beta.func$best$MEM.select
 bat.select.beta.func$candidates
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
-save(bat.MEM.sel.beta.func, file = "bat.MEM.sel.beta.func.RData")
-load("bat.MEM.sel.beta.func.RData")
+save(bat.MEM.sel.beta.func, file = "data/bat.MEM.sel.beta.func.RData")
+load("data/bat.MEM.sel.beta.func.RData")
 
 # now run this thru the same analysis but with dudi.pco of beta diversity (bat.beta.phyl.pco = phylogenetic Bsim)
 # beta diversity pco calculated in 'aBetadiversity MEMs_Final.R'
@@ -394,9 +385,8 @@ bat.select.beta.phyl <-
   )
 bat.MEM.sel.beta.phyl <- bat.select.beta.phyl$best$MEM.select
 bat.select.beta.phyl$candidates
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
-save(bat.MEM.sel.beta.phyl, file = "bat.MEM.sel.beta.phyl.RData")
-load("bat.MEM.sel.beta.phyl.RData")
+save(bat.MEM.sel.beta.phyl, file = "data/bat.MEM.sel.beta.phyl.RData")
+load("data/bat.MEM.sel.beta.phyl.RData")
 
 
 #-------------------------------------------------------------------------------------------------------------------------------------------

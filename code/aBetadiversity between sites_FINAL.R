@@ -19,22 +19,21 @@ library(reshape2)
 #------------------------------------------------------------------------------------------------------------------------------------------------------
 # input data community data
 
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/Community analyses")
 
-batsp <- read.table("Bats_spp1.csv", sep=",", head = TRUE, row.names = 1)
+batsp <- read.table("data/Bats_spp1.csv", sep=",", head = TRUE, row.names = 1)
 bat_pres_abs <- ifelse(batsp>0,1,0)  # convert to presence-absence
-batsite <- read.table("Bats_sites1.csv", sep=",", head=TRUE)
-bats.traits <- read.table("Bats_traits1.csv", sep=",", head=TRUE)
+batsite <- read.table("data/Bats_sites1.csv", sep=",", head=TRUE)
+bats.traits <- read.table("data/Bats_traits1.csv", sep=",", head=TRUE)
 
-ratsp <- read.table("Rats_spp1.csv", sep=",", head = TRUE, row.names = 1)
+ratsp <- read.table("data/Rats_spp1.csv", sep=",", head = TRUE, row.names = 1)
 rat_pres_abs <- ifelse(ratsp>0,1,0)
-ratsite <- read.table("Rats_sites1.csv", sep=",", head = TRUE)
-rats.traits <- read.table("Rats_traits1.csv", sep=",", head=TRUE)
+ratsite <- read.table("data/Rats_sites1.csv", sep=",", head = TRUE)
+rats.traits <- read.table("data/Rats_traits1.csv", sep=",", head=TRUE)
 
-shrewsp <- read.table("Shrews_spp1.csv", sep=",", head = TRUE, row.names = 1)
+shrewsp <- read.table("data/Shrews_spp1.csv", sep=",", head = TRUE, row.names = 1)
 shrew_pres_abs <- ifelse(shrewsp>0,1,0)
-shrewsite <- read.table("Shrews_sites1.csv", sep=",", head = TRUE)
-shrews.traits <- read.table("Shrews_traits1.csv", sep=",", head=TRUE)
+shrewsite <- read.table("data/Shrews_sites1.csv", sep=",", head = TRUE)
+shrews.traits <- read.table("data/Shrews_traits1.csv", sep=",", head=TRUE)
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------
 # Beta diversity calculations using betapart beta.pair(), which compares between all sites (i.e. does not combine sites into a single output value)
@@ -251,26 +250,24 @@ shrew.betadiversity <- shrew.betadiversity.sor %>%
 # save all taxonomic beta diversity output as csv files
 
 # this combines all components (Bsor, Bsim, Bnes) into a single csv file, separately for each group
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Betadiversity all_FINAL")
 
-write.csv(bat.betadiversity, "bat.taxonomic.betadiversity.csv")
-write.csv(rat.betadiversity, "rat.taxonomic.betadiversity.csv")
-write.csv(shrew.betadiversity, "shrew.taxonomic.betadiversity.csv")
+write.csv(bat.betadiversity, "data/bat.taxonomic.betadiversity.csv")
+write.csv(rat.betadiversity, "data/rat.taxonomic.betadiversity.csv")
+write.csv(shrew.betadiversity, "data/shrew.taxonomic.betadiversity.csv")
 
 # this saves each component separately for each group
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Taxonomic betadiversity - between sites across all regions")
 
-write.csv(bat.sor.output, "bat.sor.between all sites.csv")
-write.csv(bat.sim.output, "bat.sim.between all sites.csv")
-write.csv(bat.nes.output, "bat.nes.between all sites.csv")
+write.csv(bat.sor.output, "data/bat.sor.between all sites.csv")
+write.csv(bat.sim.output, "data/bat.sim.between all sites.csv")
+write.csv(bat.nes.output, "data/bat.nes.between all sites.csv")
 
-write.csv(rat.sor.output, "rat.sor.between all sites.csv")
-write.csv(rat.sim.output, "rat.sim.between all sites.csv")
-write.csv(rat.nes.output, "rat.nes.between all sites.csv")
+write.csv(rat.sor.output, "data/rat.sor.between all sites.csv")
+write.csv(rat.sim.output, "data/rat.sim.between all sites.csv")
+write.csv(rat.nes.output, "data/rat.nes.between all sites.csv")
 
-write.csv(shrew.sor.output, "shrew.sor.between all sites.csv")
-write.csv(shrew.sim.output, "shrew.sim.between all sites.csv")
-write.csv(shrew.nes.output, "shrew.nes.between all sites.csv")
+write.csv(shrew.sor.output, "data/shrew.sor.between all sites.csv")
+write.csv(shrew.sim.output, "data/shrew.sim.between all sites.csv")
+write.csv(shrew.nes.output, "data/shrew.nes.between all sites.csv")
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------
 #------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -598,27 +595,23 @@ shrew.fbetadiversity <- shrew.fbetadiversity.sor %>%
 # save all functional beta diversity output as csv files
 
 # this combines all components (Bsor, Bsim, Bnes) into a single csv file, separately for each group
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Betadiversity all_FINAL")
-
-write.csv(bat.fbetadiversity, "bat.functional.betadiversity.csv")
-write.csv(rat.fbetadiversity, "rat.functional.betadiversity.csv")
-write.csv(shrew.fbetadiversity, "shrew.functional.betadiversity.csv")
+write.csv(bat.fbetadiversity, "data/bat.functional.betadiversity.csv")
+write.csv(rat.fbetadiversity, "data/rat.functional.betadiversity.csv")
+write.csv(shrew.fbetadiversity, "data/shrew.functional.betadiversity.csv")
 
 # this saves each component separately for each group
 
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Functional betadiversity - between sites across all regions")
-
 # for bats
-write.csv(bat.fsor.output, "bat.func_sor.between all sites.csv")
-write.csv(bat.fsim.output, "bat.func_sim.between all sites.csv")
-write.csv(bat.fnes.output, "bat.func_nes.between all sites.csv")
+write.csv(bat.fsor.output, "data/bat.func_sor.between all sites.csv")
+write.csv(bat.fsim.output, "data/bat.func_sim.between all sites.csv")
+write.csv(bat.fnes.output, "data/bat.func_nes.between all sites.csv")
 
 # for rats
-write.csv(rat.fsor.output, "rat.func_sor.between all sites.csv")
-write.csv(rat.fsim.output, "rat.func_sim.between all sites.csv")
-write.csv(rat.fnes.output, "rat.func_nes.between all sites.csv")
+write.csv(rat.fsor.output, "data/rat.func_sor.between all sites.csv")
+write.csv(rat.fsim.output, "data/rat.func_sim.between all sites.csv")
+write.csv(rat.fnes.output, "data/rat.func_nes.between all sites.csv")
 
 # for shrews
-write.csv(shrew.fsor.output, "shrew.func_sor.between all sites.csv")
-write.csv(shrew.fsim.output, "shrew.func_sim.between all sites.csv")
-write.csv(shrew.fnes.output, "shrew.func_nes.between all sites.csv")
+write.csv(shrew.fsor.output, "data/shrew.func_sor.between all sites.csv")
+write.csv(shrew.fsim.output, "data/shrew.func_sim.between all sites.csv")
+write.csv(shrew.fnes.output, "data/shrew.func_nes.between all sites.csv")

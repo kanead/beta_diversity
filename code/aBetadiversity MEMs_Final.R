@@ -23,36 +23,31 @@ library(sf)  # to project lat/long for variogram
 
 #-------------------------------------------------------------------------------------------------------------------------------------------
 # load data
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/Community analyses")
 
-batsite <- read.table("Bats_sites1.csv", sep = ",", head = TRUE)
+batsite <- read.table("data/Bats_sites1.csv", sep = ",", head = TRUE)
 batlocs <- batsite %>% dplyr::select(Longitude, Latitude)
 
 batsp1 <- read.csv("Bats_spp1.csv", row.names = 1)
 batsp <- ifelse(batsp1 > 0, 1, 0)  # convert to presence-absence
 
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Betadiversity all_FINAL")
 
-betadiversity <- read.csv("betadiversity_all.csv", row.names = 1)
+betadiversity <- read.csv("data/betadiversity_all.csv", row.names = 1)
 
-bat.tax <- read.csv("bat.taxonomic.betadiversity.csv")
-rat.tax <- read.csv("rat.taxonomic.betadiversity.csv")
-shrew.tax <- read.csv("shrew.taxonomic.betadiversity.csv")
+bat.tax <- read.csv("data/bat.taxonomic.betadiversity.csv")
+rat.tax <- read.csv("data/rat.taxonomic.betadiversity.csv")
+shrew.tax <- read.csv("data/shrew.taxonomic.betadiversity.csv")
 
-bat.func <- read.csv("bat.functional.betadiversity.csv")
-rat.func <- read.csv("rat.functional.betadiversity.csv")
-shrew.func <- read.csv("shrew.functional.betadiversity.csv")
+bat.func <- read.csv("data/bat.functional.betadiversity.csv")
+rat.func <- read.csv("data/rat.functional.betadiversity.csv")
+shrew.func <- read.csv("data/shrew.functional.betadiversity.csv")
 
-bat.phylo <- read.csv("bat.phylo.betadiversity.csv")
-rat.phylo <- read.csv("rat.phylo.betadiversity.csv")
-shrew.phylo <- read.csv("shrew.phylo.betadiversity.csv")
+bat.phylo <- read.csv("data/bat.phylo.betadiversity.csv")
+rat.phylo <- read.csv("data/rat.phylo.betadiversity.csv")
+shrew.phylo <- read.csv("data/shrew.phylo.betadiversity.csv")
 
-
-
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
-load("bat.select.res.RData")
-load("rat.select.res.RData")
-load("shrew.select.res.RData")
+load("data/bat.select.res.RData")
+load("data/rat.select.res.RData")
+load("data/shrew.select.res.RData")
 
 bat.select.res
 
