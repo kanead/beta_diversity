@@ -20,7 +20,6 @@ library(reshape2)
 # input data community data. These are beta diversities calculated using betapart beta.pair (ie site by site, and not than region by region)
 
 # taxonomic betadiversity (pair-wise comparisons by sites across all regions)
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R output/Betadiversity all_FINAL")
 
 bat.tax <- read.csv("bat.taxonomic.betadiversity.csv")
 rat.tax <- read.csv("rat.taxonomic.betadiversity.csv")
@@ -192,8 +191,6 @@ phylogenetic <- bind_rows(bat.phylo2, rat.phylo2, shrew.phylo2)
 
 betadiversity<- bind_rows(taxonomic, functional, phylogenetic)
 
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Betadiversity all_FINAL")
-
 write.csv(betadiversity, "betadiversity_all.csv")
 
 
@@ -204,8 +201,6 @@ write.csv(betadiversity, "betadiversity_all.csv")
 #------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # taxonomic betadiversity (pair-wise comparisons by sites across all regions)
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R output/Taxonomic betadiversity - between sites across all regions")
-
 bat.sor <- read.csv("bat.sor.between all sites.csv")
 bat.sim <- read.csv("bat.sim.between all sites.csv")
 bat.nes <- read.csv("bat.nes.between all sites.csv")
@@ -219,8 +214,6 @@ shrew.sim <- read.csv("shrew.sim.between all sites.csv")
 shrew.nes <- read.csv("shrew.nes.between all sites.csv")
 
 # functional betadiversity (pair-wise comparisons by sites across all regions)
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R output/Functional betadiversity - between sites across all regions")
-
 bat.fsor <- read.csv("bat.func_sor.between all sites.csv")
 bat.fsim <- read.csv("bat.func_sim.between all sites.csv")
 bat.fnes <- read.csv("bat.func_nes.between all sites.csv")
@@ -234,8 +227,6 @@ shrew.fsim <- read.csv("shrew.func_sim.between all sites.csv")
 shrew.fnes <- read.csv("shrew.func_nes.between all sites.csv")
 
 # functional betadiversity (pair-wise comparisons by sites across all regions)
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R output/Phylo betadiversity - between sites across all regions")
-
 bat.psor <- read.csv("bat.phylo_sor.between all sites.csv")
 bat.psim <- read.csv("bat.phylo_sim.between all sites.csv")
 bat.fnes <- read.csv("bat.phylo_nes.between all sites.csv")
