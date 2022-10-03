@@ -20,8 +20,6 @@ library(ggplot2)
 library(ggpubr)
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/Phylo beta diversity - Kevin code")
-
 #This file contains some of the functions
 source("phylostuff.R")
 
@@ -72,7 +70,6 @@ cleaned_species_list <- phylo_match_update$data
 cleaned_tree <- phylo_match_update$phy
 
 # save this phylogeny for another manuscript
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Hmsc analysis rodents shrews Africa/Data")
 ape::write.tree(cleaned_tree, file='small.mammal.phylo.txt') 
 
 ## Match the list of species with the cleaned one in the trees
@@ -344,13 +341,9 @@ shrew.pbetadiversity <- shrew.pbetadiversity.sor %>%
 # save all phylo beta diversity output as csv files
 
 # this combines all components (Bsor, Bsim, Bnes) into a single csv file, separately for each group
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Betadiversity all_FINAL")
-
 write.csv(bat.pbetadiversity, "bat.phylo.betadiversity.csv")
 write.csv(rat.pbetadiversity, "rat.phylo.betadiversity.csv")
 write.csv(shrew.pbetadiversity, "shrew.phylo.betadiversity.csv")
-
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/Phylo betadiversity - between sites across all regions")
 
 write.csv(bat.psor.output, "bat.phylo_sor.between all sites.csv")
 write.csv(bat.psim.output, "bat.phylo_sim.between all sites.csv")
