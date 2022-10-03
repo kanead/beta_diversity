@@ -17,7 +17,6 @@ library(vegan)
 # call data
 # selection of significant MEMs (for bats, rats, shrews for each of taxonomic, functional, and phylogenetic)
 # calculated in three R scripts: 'Bat_MEM_AM.R', 'Rat_MEM_AM.R', 'Shrew_MEM_AM.R'
-setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/MEM analysis")
 load("bat.MEM.sel.beta.tax.RData")
 load("bat.MEM.sel.beta.func.RData")
 load("bat.MEM.sel.beta.phyl.RData")
