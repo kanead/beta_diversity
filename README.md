@@ -7,12 +7,13 @@ Has information on:
 3. trait data for the three groups
 4. a shape file of the biogeographic regions used in the paper
 5. bioclimatic data from the sites, this is broken down into the three mammal groups and also presented as one file 
+6. phylogenetic tree and species list for phylogenetic comparisons 
 
 ## The code folder 
-The scripts are used to reveal mutiscale patterns of the species distributions across the biogeographic regions as well as beta diversity between groups using beta.pair() i.e. site by site comparisons
+The scripts are used to reveal mutiscale patterns of the species distributions across the biogeographic regions as well as beta diversity calculations
 
 ## The results folder 
-Gives output as .R files for the three groups. These data are split into taxonomic, phylogenetic and functional beta diversity 
+Gives output as .R files for the three groups. These data are split into taxonomic, phylogenetic and functional beta diversity. There are also data on the beta diversity components for the three groups.  
 
 
  
