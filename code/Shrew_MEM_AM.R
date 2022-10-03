@@ -41,7 +41,9 @@ set.seed(2020)
 
 #-------------------------------------------------------------------------------------------------------------------------------------------
 #' load the locations
-shrewsite <- read.table("data/shrews_sites1.csv", sep = ",", head = TRUE)
+setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/Community analyses")
+
+shrewsite <- read.table("shrews_sites1.csv", sep = ",", head = TRUE)
 shrewlocs <- shrewsite %>% dplyr::select(Longitude, Latitude)
 shrewlocs <- shrewlocs %>% rename(long = Longitude)
 shrewlocs <- shrewlocs %>% rename(lat = Latitude)
@@ -61,14 +63,15 @@ shrewlocs.func <- shrewsite %>% filter(Location %ni% c("CMR_Kupe1", "ETH_Alatish
 shrew.xy.func <- as.matrix(shrewlocs.func) 
 
 shrewsp1 <-
-  read.table("data/Shrews_spp1.csv",
+  read.table("Shrews_spp1.csv",
              sep = ",",
              head = TRUE,
              row.names = 1)
 shrewsp <- ifelse(shrewsp1 > 0, 1, 0)  # convert to presence-absence
 
 # get environmental (BIOCLIM) data
-enviro.shrew1 <- read.csv("data/bioclim.shrew.tax.csv")
+setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/R analysis/Community analyses/R Output/bioclim_data")
+enviro.shrew1 <- read.csv("bioclim.shrew.tax.csv")
 enviro.shrew <- enviro.shrew1[,3:23]
 
 # Select only variables with low VIF (<2.2) based on allsites selection (see Bat_MEM_AM.R)
@@ -89,7 +92,8 @@ env.shrew.func <- enviro.shrew1[,3:24] %>% filter(Location %ni% c("CMR_Kupe1", "
 0#-------------------------------------------------------------------------------------------------------------------------------------------
 # call on some shapefiles for plotting maps
 
-biogeog1 <- readOGR("data/Bioregions_Linder_clipped_simplified.shp")
+setwd("C:/Dropbox/Ara/GIS_Q/Biogeographic_regions_Africa-Linder")
+biogeog1 <- readOGR("Bioregions_Linder_clipped_simplified.shp")
 #proj <- "+proj=laea +lon_0=0 +lat_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"
 proj1 <- '+proj=longlat + datum=WGS84'
 biogeog <- spTransform(biogeog1, CRS(proj1))
@@ -226,8 +230,9 @@ shrew.select <-
   )
 
 # now save this object 'shrew.select' so that we don't have to rerun this!
-save(shrew.select, file = "data/shrew.select.RData")
-load("data/shrew.select.RData")
+setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
+save(shrew.select, file = "shrew.select.RData")
+load("shrew.select.RData")
 
 # Optimised selected SWM:
 shrew.select$best.id
@@ -257,8 +262,9 @@ shrew.select.res <-
   )
 shrew.MEM.sel.res <- shrew.select.res$best$MEM.select
 shrew.select.res$candidates
-save(shrew.select.res, file = "data/shrew.select.res.RData")
-load("data/shrew.select.res.RData")
+setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
+save(shrew.select.res, file = "shrew.select.res.RData")
+load("shrew.select.res.RData")
 
 # now run this thru the same analysis but with dudi.pco of beta diversity (shrew.beta.pco = taxonomic Bsim)
 # beta diversity pco calculated in 'aBetadiversity MEMs_Final.R'
@@ -272,8 +278,9 @@ shrew.select.beta.tax <-
   )
 shrew.MEM.sel.beta.tax <- shrew.select.beta.tax$best$MEM.select
 shrew.select.beta.tax$candidates
-save(shrew.MEM.sel.beta.tax, file = "data/shrew.MEM.sel.beta.tax.RData")
-load("data/shrew.MEM.sel.beta.tax.RData")
+setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
+save(shrew.MEM.sel.beta.tax, file = "shrew.MEM.sel.beta.tax.RData")
+load("shrew.MEM.sel.beta.tax.RData")
 
 # now run this thru the same analysis but with dudi.pco of beta diversity (shrew.func.beta.pco = functional Bsim)
 # beta diversity pco calculated in 'aBetadiversity MEMs_Final.R'
@@ -300,8 +307,9 @@ shrew.select.beta.func <-
   )
 shrew.MEM.sel.beta.func <- shrew.select.beta.func$best$MEM.select
 shrew.select.beta.func$candidates
-save(shrew.MEM.sel.beta.func, file = "data/shrew.MEM.sel.beta.func.RData")
-load("data/shrew.MEM.sel.beta.func.RData")
+setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
+save(shrew.MEM.sel.beta.func, file = "shrew.MEM.sel.beta.func.RData")
+load("shrew.MEM.sel.beta.func.RData")
 
 # now run this thru the same analysis but with dudi.pco of beta diversity (shrew.beta.phyl.pco = phylogenetic Bsim)
 # beta diversity pco calculated in 'aBetadiversity MEMs_Final.R'
@@ -315,8 +323,9 @@ shrew.select.beta.phyl <-
   )
 shrew.MEM.sel.beta.phyl <- shrew.select.beta.phyl$best$MEM.select
 shrew.select.beta.phyl$candidates
-save(shrew.MEM.sel.beta.phyl, file = "data/shrew.MEM.sel.beta.phyl.RData")
-load("data/shrew.MEM.sel.beta.phyl.RData")
+setwd("C:/Dropbox/Ara/Publications/Mss - current/Bats - Turnover comparisons with rodents/00_Manuscript/00_Journal of Biogeography/Revision/Adam's analyses MEMs")
+save(shrew.MEM.sel.beta.phyl, file = "shrew.MEM.sel.beta.phyl.RData")
+load("shrew.MEM.sel.beta.phyl.RData")
 
 #-------------------------------------------------------------------------------------------------------------------------------------------
 # Visualisation of the selected MEM variables:
