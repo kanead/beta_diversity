@@ -1,154 +1,154 @@
-Location,Land_cover,Biome,Biogeogr,Country,Latitude,Longitude,Elevation,Abundance,Richness,Seasons,Years,PresAbs,Rodents
-AGO_Okavango,Natural,Savanna,Zambezian,Angola,-13.1,18.2,1440,3,3,2,3,1,1
-BDI_Bururi,Natural,Forest,Congolian,Burundi,-3.9383,29.5969,1880,27,8,2,1,0,1
-BEN_Gotcha,Natural,Forest-savanna,Congolian,Benin,8.29,1.79,240,87,5,1,1,0,1
-BEN_Lougba,Natural,Forest-savanna,Congolian,Benin,8.27,1.76,240,158,6,1,1,0,1
-BEN_Terou,Natural,Forest-savanna,Sudanian,Benin,9.06,2.06,290,63,4,1,1,0,1
-BEN_Wannou,Natural,Forest-savanna,Sudanian,Benin,9.02,2.06,290,39,3,1,1,0,1
-CAF_Bamingui1,Natural,Guinea-woodland,Sudanian,CAR,7.75,20.95,600,109,8,1,1,0,0
-CAF_Bamingui2,Natural,Guinea-woodland,Sudanian,CAR,7.95,20.2,500,31,5,1,1,0,0
-CAF_Bohou,Natural,Guinea-woodland,Sudanian,CAR,8.05,21.4,700,58,7,1,1,0,0
-CAF_Dzanga,Natural,Rainforest,Congolian,CAR,3.38,16.34,550,307,15,2,2,0,1
-CAF_Manovo1,Natural,Sudanian-savanna,Sudanian,CAR,8.33,21.1,650,53,8,1,1,0,0
-CAF_Manovo2,Natural,Sudanian-savanna,Sudanian,CAR,9.6,22,500,14,5,1,1,0,0
-CIV_Tai1,Natural,Rainforest,Congolian,Ivory_Coast,5.833,-7.333,200,26,6,1,1,0,1
-CIV_Tai2,Natural,Rainforest,Congolian,Ivory_Coast,5.833,-7.35,200,553,10,2,3,0,0
-CMR_Korup,Mixed,Rainforest,Congolian,Cameroon,5.267,9.133,160,24,9,1,1,0,0
-CMR_Kupe1,Mixed,Rainforest,Congolian,Cameroon,4.836,9.68,900,5,1,1,1,0,1
-CMR_Oku,Natural,Montane,Congolian,Cameroon,6.254,10.419,2400,4,4,1,3,0,1
-COD_Epulu,Natural,Rainforest,Congolian,DR_Congo,1.4,28.583,800,30,6,2,1,0,1
-COD_Kisangani1,Natural,Rainforest,Congolian,DR_Congo,1.26988,23.73142,350,10,5,1,1,0,0
-COD_Kisangani2,Natural,Rainforest,Congolian,DR_Congo,1.24198,23.70645,400,20,5,1,1,0,0
-COD_Kisangani3,Natural,Rainforest,Congolian,DR_Congo,0.647,25.18,400,38,10,1,1,0,0
-COD_Kisangani4,Natural,Rainforest,Congolian,DR_Congo,0.14375,25.56527,450,38,10,1,1,0,0
-COD_Kisangani5,Natural,Rainforest,Congolian,DR_Congo,0.60507,25.25648,400,86,9,1,1,0,0
-COD_Kisangani6,Natural,Rainforest,Congolian,DR_Congo,0.51918,24.17347,400,58,7,1,1,0,0
-COD_Kisangani7,Natural,Rainforest,Congolian,DR_Congo,0.2898,25.28692,400,68,9,1,1,0,0
-COD_Kisangani8,Natural,Rainforest,Congolian,DR_Congo,0.64153,26.14717,500,69,10,1,1,0,0
-COD_Kitwit,Agricultural,Forest-savanna,Congolian,DR Congo,-5.0579,18.9092,450,101,9,1,1,0,1
-ETH_Alatish,Natural,Sudanian-savanna,Sudanian,Ethiopia,12.2,35.5,600,10,2,2,2,0,1
-ETH_Bale1,Natural,Montane,Ethiopian,Ethiopia,7,39.667,3500,4,1,2,2,0,1
-ETH_Bale2,Natural,Montane,Ethiopian,Ethiopia,6.67,39.73,2000,16,3,2,2,0,1
-ETH_Bale3,Natural,Montane,Ethiopian,Ethiopia,6.9,39.92,3700,20,1,2,2,0,1
-ETH_Bale4,Natural,Montane,Ethiopian,Ethiopia,6.85,39.883,4050,10,1,2,2,0,1
-ETH_Bale5,Natural,Montane,Ethiopian,Ethiopia,7.05,39.75,3200,35,1,2,2,0,1
-ETH_Chebera,Natural,Montane,Ethiopian,Ethiopia,6.82,36.69,800,12,1,2,2,0,1
-ETH_Hugumburda,Natural,Montane,Ethiopian,Ethiopia,12.65,39.55,2000,2,1,1,1,0,1
-ETH_Hunkolo,Natural,Montane,Ethiopian,Ethiopia,7.4,39.4,3400,49,2,2,2,0,1
-ETH_Jiren,Mixed,Montane,Ethiopian,Ethiopia,7.69,36.85,1800,2,1,2,2,0,1
-ETH_Kaka,Natural,Montane,Ethiopian,Ethiopia,7.4,39.1,3500,79,2,2,2,0,1
-ETH_Simiens2,Natural,Montane,Ethiopian,Ethiopia,13.23,38.04,3250,14,1,1,1,0,1
-ETH_Simiens3,Natural,Montane,Ethiopian,Ethiopia,13.26,38.19,3600,53,1,1,1,0,1
-ETH_Simiens4,Natural,Montane,Ethiopian,Ethiopia,13.17,38.2,4000,22,1,1,1,0,1
-ETH_Yerer,Natural,Montane,Ethiopian,Ethiopia,8.867,38.96,2000,2,1,2,2,0,1
-GAB_Belinga,Natural,Rainforest,Congolian,Gabon,0.567,12.867,450,160,10,2,3,0,0
-GAB_Doudou1,Natural,Rainforest,Congolian,Gabon,-2.14,10.55,110,142,9,2,2,0,1
-GAB_Doudou2,Natural,Rainforest,Congolian,Gabon,-2.15,10.5,400,79,9,1,1,0,0
-GAB_Gamba,Natural,Rainforest,Congolian,Gabon,-2.75,10.05,25,7,7,1,1,0,1
-GAB_Loango,Natural,Rainforest,Congolian,Gabon,-2.2,9.7,30,6,6,1,1,0,1
-GAB_Minkebe,Natural,Rainforest,Congolian,Gabon,2.0867,12.375,600,22,9,1,1,0,0
-GAB_Rabi,Natural,Rainforest,Congolian,Gabon,-1.8,10.3,200,9,9,1,1,0,1
-GAB_Toucan,Natural,Rainforest,Congolian,Gabon,-1.7,10.2,160,8,8,1,1,0,1
-GHA_Accra,Mixed,Guinea-woodland,Congolian,Ghana,6,0,80,14,4,2,2,0,1
-GHA_Boitano,Natural,Rainforest,Congolian,Ghana,5.53,-2.617,80,5,3,1,1,0,1
-GHA_Draw,Natural,Rainforest,Congolian,Ghana,5.2,-2.4,80,5,3,1,1,0,1
-GHA_Krokosua,Natural,Rainforest,Congolian,Ghana,6.617,-2.85,220,6,3,1,1,0,1
-GIN_Niger,Natural,Sudanian-savanna,Sudanian,Guinea,10.1,-10.4,450,8,8,1,1,1,1
-GIN_Nimba,Natural,Forest-savanna,Congolian,Guinea,7.65,-8.33,800,153,10,2,2,0,0
-GIN_Ziama,Natural,Forest-savanna,Congolian,Guinea,8.1768,-9.3718,600,17,4,1,1,0,1
-KEN_Kasigau,Natural,Montane,Zambezian,Kenya,-3.828,38.658,1300,9,2,1,1,0,0
-KEN_Kyulu,Natural,Montane,Zambezian,Kenya,-2.7853,37.869,1600,42,3,1,1,0,0
-KEN_Mbololo,Mixed,Montane,Zambezian,Kenya,-3.433,38.667,2200,15,3,1,1,0,0
-KEN_Meru,Natural,Savanna,Somalian,Kenya,0.183,38.167,650,86,1,2,2,0,1
-KEN_Mukogodo,Natural,Montane,Somalian,Kenya,0.4,37.25,1500,5,2,2,1,0,1
-Ken_Nairobi1,Natural,Grassland,Zambezian,Kenya,-1.233,36.8,1750,1,1,2,2,0,1
-KEN_Sagala,Mixed,Montane,Zambezian,Kenya,-3.5,38.583,1500,16,4,1,1,0,0
-KEN_Shimba,Natural,Forest,Zambezian,Kenya,-4.167,39.433,300,14,2,1,1,0,0
-KEN_Taita,Mixed,Montane,Zambezian,Kenya,-3.4,38.33,1800,199,6,1,1,0,0
-KEN_Turkana1,Natural,Savanna,Somalian,Kenya,3.95,36.2,380,2,1,2,2,0,1
-KEN_Turkana2,Natural,Savanna,Somalian,Kenya,2.567,36.917,1000,2,1,2,2,0,1
-LBR_Nimba1,Mixed,Forest-savanna,Congolian,Liberia,7.51,-8.53,1350,2,1,1,1,0,1
-LBR_Nimba2,Mixed,Forest-savanna,Congolian,Liberia,7.52,-8.53,1000,5,4,1,1,0,1
-LBR_Nimba3,Mixed,Forest-savanna,Congolian,Liberia,7.51,-8.7,420,11,8,1,1,0,1
-LBR_Nimba4,Mixed,Forest-savanna,Congolian,Liberia,7.47,-8.65,450,9,3,1,1,0,1
-LBR_Wologizi,Natural,Forest-savanna,Congolian,Liberia,8.149,-9.879,550,8,5,1,1,0,1
-MLI_Mopti,Mixed,Sahel,Sudanian,Mali,14.89,-4.035,260,200,1,2,3,0,1
-MOZ_Cabora,Natural,Savanna,Zambezian,Mozambique,-15.6,32.75,840,2,1,2,2,0,1
-MOZ_Gorongosa,Natural,Savanna,Zambezian,Mozambique,-18.99,34.35,120,4,1,1,1,0,1
-MRT_Chott,Natural,Sahel,Sudanian,Mauritania,16.6,-16.43,10,4,2,2,2,0,1
-MWI_Lengwe,Natural,Savanna,Zambezian,Malawi,-16.3,34.733,100,5,1,2,2,0,1
-MWI_Liwonde,Natural,Savanna,Zambezian,Malawi,-15.033,35.25,550,1,1,2,2,0,1
-MWI_Zomba,Natural,Montane,Zambezian,Malawi,-15.333,25.317,1900,3,1,2,2,0,1
-NAM_Keetmanshoop,Rangeland,Nama-Karoo,Southern,Namibia,-26.39,17.996,1000,10,1,2,2,0,1
-NAM_Tumasberg,Natural,Desert,Southern,Namibia,-23.152,15.514,1100,9,1,2,1,0,1
-NGA_Gambari,Natural,Rainforest,Congolian,Nigeria,7.15,3.9,170,56,2,2,3,0,1
-NGA_Gotel,Natural,Montane,Sudanian,Nigeria,7,11.7,1600,9,5,1,1,0,1
-NGA_Oredo,Mixed,Rainforest,Congolian,Nigeria,6.09,5.485,20,85,6,1,3,0,1
-RWA_Volcanoes,Natural,Montane,Congolian,Rwanda,-1.458,29.498,3000,11,3,1,1,0,1
-SEN_Sabodala,Mixed,Sudanian-savanna,Sudanian,Senegal,13.167,-12.117,250,8,2,2,2,0,1
-SLE_Bumbuna1,Natural,Forest-savanna,Sudanian,Sierra_Leone,9.3244,-11.675,310,1,1,1,1,0,1
-SLE_Bumbuna2,Mixed,Forest-savanna,Sudanian,Sierra_Leone,9.32,-11.527,320,1,1,1,1,0,1
-SLE_Gola1,Natural,Rainforest,Congolian,Sierra_Leone,7.649,-10.775,150,12,6,1,1,0,1
-SLE_Gola2,Natural,Rainforest,Congolian,Sierra_Leone,7.772,-10.714,150,12,4,1,1,0,1
-SOM_Jubba,Natural,Savanna,Somalian,Somalia,1.067,42.583,20,1,1,1,1,0,1
-SWZ_Edwaleni,Natural,Savanna,Southern,Eswatini,-26.546,31.261,750,25,1,2,3,0,1
-SWZ_Lowveld,Mixed,Savanna,Southern,Eswatini,-26.22,31.88,300,66,3,2,1,0,1
-SWZ_Maguga,Natural,Savanna,Southern,Eswatini,-26.067,31.27,650,18,1,2,2,0,1
-SWZ_Mlawula,Natural,Savanna,Southern,Eswatini,-26.208,32,150,9,1,2,2,0,1
-TCD_Zakouma,Natural,Sudanian-savanna,Sudanian,Chad,10.5,19.8,430,20,1,1,1,0,1
-TZA_Katavi,Mixed,Savanna,Zambezian,Tanzania,-6.8,31,1000,94,3,2,2,0,1
-TZA_Kilimanjaro1,Natural,Montane,Zambezian,Tanzania,-3.225,37.459,2200,3,3,2,1,1,1
-TZA_Kilimanjaro2,Natural,Montane,Zambezian,Tanzania,-3.186,37.463,2700,3,3,2,1,1,1
-TZA_Kilimanjaro3,Natural,Montane,Zambezian,Tanzania,-3.145,37.46,3500,1,1,2,1,1,1
-TZA_KilimanjaroA1,Natural,Montane,Zambezian,Tanzania,-3.24007,37.45837,2000,70,5,1,1,0,1
-TZA_KilimanjaroA2,Natural,Montane,Zambezian,Tanzania,-3.20765,37.447,2500,79,5,1,1,0,1
-TZA_KilimanjaroA3,Natural,Montane,Zambezian,Tanzania,-3.17712,37.44022,3000,88,4,1,1,0,1
-TZA_KilimanjaroA4,Natural,Montane,Zambezian,Tanzania,-3.14902,37.43555,3500,49,3,1,1,0,1
-TZA_KilimanjaroA5,Natural,Montane,Zambezian,Tanzania,-3.1261,37.42667,4000,34,3,1,1,0,1
-TZA_Kingu,Mixed,Savanna,Zambezian,Tanzania,-8.433,38.633,170,21,1,1,1,0,1
-TZA_Minziro,Natural,Montane,Congolian,Tanzania,-1.0942,31.5154,1160,21,6,1,1,0,1
-TZA_Tarangire,Natural,Savanna,Zambezian,Tanzania,-3.88,36.03,1100,17,4,2,2,0,1
-TZA_Udzungwa1,Natural,Forest,Zambezian,Tanzania,-8.517,35.9,600,23,5,1,1,0,1
-TZA_Udzungwa2,Natural,Montane,Zambezian,Tanzania,-8.51,35.92,920,32,3,1,1,0,1
-TZA_Udzungwa3,Natural,Montane,Zambezian,Tanzania,-8.475,35.88,2460,22,5,1,1,0,1
-TZA_Udzungwa4,Natural,Montane,Zambezian,Tanzania,-8.35,35.95,2000,68,6,1,1,0,1
-TZA_Udzungwa5,Natural,Montane,Zambezian,Tanzania,-7.8478,36.8838,350,52,6,2,2,0,1
-TZA_Udzungwa6,Natural,Montane,Zambezian,Tanzania,-7.708,36.909,1200,13,4,2,2,0,1
-TZA_Usambara1,Natural,Montane,Zambezian,Tanzania,-5.1058,38.5978,1000,115,10,1,3,0,1
-TZA_Usambara2,Natural,Montane,Zambezian,Tanzania,-5.067,38.4,1200,114,5,1,3,0,1
-UGA_Bwindi1,Natural,Montane,Congolian,Uganda,-0.997,29.616,1550,11,11,2,1,1,1
-UGA_Bwindi2,Natural,Montane,Congolian,Uganda,-1.05,29.775,2300,12,12,2,1,1,1
-UGA_Rwenzori1,Natural,Montane,Congolian,Uganda,0.344,30.027,2000,31,7,2,2,0,1
-UGA_Rwenzori2,Natural,Montane,Congolian,Uganda,0.341,29.987,2700,19,5,2,2,0,1
-UGA_Rwenzori3,Natural,Montane,Congolian,Uganda,0.321,29.974,3350,12,4,2,2,0,1
-UGA_Rwenzori4,Natural,Montane,Congolian,Uganda,0.3,29.91,4000,2,2,2,2,0,1
-ZAF_Asante,Natural,Montane,Southern,South_Africa,-32.233,24.917,1800,55,1,2,2,0,1
-ZAF_Baviaanskloof,Natural,Fynbos,Southern,South_Africa,-33.6,24.4,800,2,1,1,1,0,1
-ZAF_Groenvaley,Degraded,Grassland,Southern,South_Africa,-25.33,30.75,1100,488,3,2,3,0,1
-ZAF_Karkloof,Natural,Forest,Southern,South_Africa,-29.292,30.24,1500,532,2,2,2,0,1
-ZAF_Karoo2,Rangeland,Succulent-Karoo,Southern,South_Africa,-33.367,24.2,550,11,1,2,1,0,1
-ZAF_Karoo3,Rangeland,Nama-Karoo,Southern,South_Africa,-33.35,23.133,800,12,1,2,1,0,1
-ZAF_Karoo4,Rangeland,Nama-Karoo,Southern,South_Africa,-33.233,22.617,850,3,1,2,1,0,1
-ZAF_Karoo5,Rangeland,Succulent-Karoo,Southern,South_Africa,-33.45,20.05,800,11,1,2,1,0,1
-ZAF_Karoo6,Rangeland,Succulent-Karoo,Southern,South_Africa,-33.167,19.733,700,33,2,2,1,0,1
-ZAF_Knersvlakte,Natural,Succulent-Karoo,Southern,South_Africa,-31.4,18.5,250,41,2,1,1,0,1
-ZAF_Mankwe,Natural,Savanna,Southern,South_Africa,-25.25,27.283,1100,24,2,2,3,0,1
-ZAF_Mariepskop,Natural,Montane,Southern,South_Africa,-24.5,30.967,1700,13,2,1,1,0,1
-ZAF_MtZebra,Natural,Montane,Southern,South_Africa,-32.3,25.4,1800,10,1,2,2,0,1
-ZAF_Nossob,Natural,Savanna,Southern,South_Africa,-25.417,20.599,950,3,1,1,1,0,1
-ZAF_Nyslvley,Natural,Savanna,Southern,South_Africa,-24.64,28.68,1100,1,1,1,1,0,1
-ZAF_Phinda,Natural,Savanna,Southern,South_Africa,-27.75,32.3,50,53,5,2,2,0,1
-ZAF_Pretoriuskop,Natural,Savanna,Zambezian,South_Africa,-25.17,31.29,600,9,2,1,1,0,1
-ZAF_RichardsBay,Degraded,Forest,Southern,South_Africa,-28.7156,32.1847,50,52,3,2,2,0,1
-ZAF_Rolfontein,Natural,Grassland,Southern,South_Africa,-30.009,24.765,1250,69,2,2,2,0,1
-ZAF_Satara,Natural,Savanna,Zambezian,South_Africa,-24.39,31.79,250,5,1,1,1,0,1
-ZAF_Sneeuberg,Natural,Montane,Southern,South_Africa,-31.7,24.633,1800,25,2,2,2,0,1
-ZAF_Soutpansberg,Natural,Montane,Southern,South_Africa,-23.034,29.431,1400,36,3,2,2,0,1
-ZAF_Swartberg,Natural,Fynbos,Southern,South_Africa,-33.33,22.05,1200,18,1,1,1,0,1
-ZAF_Telperion,Natural,Grassland,Southern,South_Africa,-25.633,28.883,1400,24,3,2,1,0,1
-ZAF_Wakefield,Natural,Montane,Southern,South_Africa,-29.48,29.89,1450,86,2,2,1,0,1
-ZAF_WillemPretorius,Natural,Grassland,Southern,South_Africa,-28.3,27.18,1400,8,1,2,2,0,1
-ZMB_Kafue1,Natural,Savanna,Zambezian,Zambia,-14.383,26.041,1100,4,1,1,1,0,1
-ZMB_Kafue2,Natural,Savanna,Zambezian,Zambia,-14.208,25.656,1100,5,3,1,1,0,1
-ZMB_Kafue3,Natural,Savanna,Zambezian,Zambia,-14.297,25.92,1100,6,3,1,1,0,1
-ZWE_Sengwa,Natural,Savanna,Zambezian,Zimbabwe,-18.167,28.233,900,14,2,2,2,0,1
+Location,Land_cover,Biome,Biogeogr,Country,Latitude,Longitude,Elevation,Abundance,Richness,Seasons,Years,PresAbs,Rodents,Reference
+AGO_Okavango,Natural,Savanna,Zambezian,Angola,-13.1,18.2,1440,3,3,2,3,1,1,Taylor et al. (2018) - ZooKeys
+BDI_Bururi,Natural,Forest,Congolian,Burundi,-3.9383,29.5969,1880,27,8,2,1,0,1,Kerbis Peterhans et al. (2010) - J E Afr Nat Hist
+BEN_Gotcha,Natural,Forest-savanna,Congolian,Benin,8.29,1.79,240,87,5,1,1,0,1,Nicolas et al. (2010) - Afr J Ecol
+BEN_Lougba,Natural,Forest-savanna,Congolian,Benin,8.27,1.76,240,158,6,1,1,0,1,Nicolas et al. (2010) - Afr J Ecol
+BEN_Terou,Natural,Forest-savanna,Sudanian,Benin,9.06,2.06,290,63,4,1,1,0,1,Nicolas et al. (2010) - Afr J Ecol
+BEN_Wannou,Natural,Forest-savanna,Sudanian,Benin,9.02,2.06,290,39,3,1,1,0,1,Nicolas et al. (2010) - Afr J Ecol
+CAF_Bamingui1,Natural,Guinea-woodland,Sudanian,CAR,7.75,20.95,600,109,8,1,1,0,0,Barriere et al. (2005) - Belg J Zool
+CAF_Bamingui2,Natural,Guinea-woodland,Sudanian,CAR,7.95,20.2,500,31,5,1,1,0,0,Barriere et al. (2005) - Belg J Zool
+CAF_Bohou,Natural,Guinea-woodland,Sudanian,CAR,8.05,21.4,700,58,7,1,1,0,0,Barriere et al. (2005) - Belg J Zool
+CAF_Dzanga,Natural,Rainforest,Congolian,CAR,3.38,16.34,550,307,15,2,2,0,1,"Ray (1998) J Zool, Lond"
+CAF_Manovo1,Natural,Sudanian-savanna,Sudanian,CAR,8.33,21.1,650,53,8,1,1,0,0,Barriere et al. (2005) - Belg J Zool
+CAF_Manovo2,Natural,Sudanian-savanna,Sudanian,CAR,9.6,22,500,14,5,1,1,0,0,Barriere et al. (2005) - Belg J Zool
+CIV_Tai1,Natural,Rainforest,Congolian,Ivory_Coast,5.833,-7.333,200,26,6,1,1,0,1,Akpatou et al. (2018) - Nature Conserv Res
+CIV_Tai2,Natural,Rainforest,Congolian,Ivory_Coast,5.833,-7.35,200,553,10,2,3,0,0,Churchfield et al. (2004) - Acta Theriologica
+CMR_Korup,Mixed,Rainforest,Congolian,Cameroon,5.267,9.133,160,24,9,1,1,0,0,Hutterer & Schlitter (1996) - book chapter
+CMR_Kupe1,Mixed,Rainforest,Congolian,Cameroon,4.836,9.68,900,5,1,1,1,0,1,Denys et al. (2009) - Bonner zool Beitr
+CMR_Oku,Natural,Montane,Congolian,Cameroon,6.254,10.419,2400,4,4,1,3,0,1,Denys et al. (2014) - Zoosystema
+COD_Epulu,Natural,Rainforest,Congolian,DR_Congo,1.4,28.583,800,30,6,2,1,0,1,Katuala et al. (2005) - Belg J Zool
+COD_Kisangani1,Natural,Rainforest,Congolian,DR_Congo,1.26988,23.73142,350,10,5,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kisangani2,Natural,Rainforest,Congolian,DR_Congo,1.24198,23.70645,400,20,5,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kisangani3,Natural,Rainforest,Congolian,DR_Congo,0.647,25.18,400,38,10,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kisangani4,Natural,Rainforest,Congolian,DR_Congo,0.14375,25.56527,450,38,10,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kisangani5,Natural,Rainforest,Congolian,DR_Congo,0.60507,25.25648,400,86,9,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kisangani6,Natural,Rainforest,Congolian,DR_Congo,0.51918,24.17347,400,58,7,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kisangani7,Natural,Rainforest,Congolian,DR_Congo,0.2898,25.28692,400,68,9,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kisangani8,Natural,Rainforest,Congolian,DR_Congo,0.64153,26.14717,500,69,10,1,1,0,0,"Gambalemoke et al. (2008a,b) - Mammalia"
+COD_Kitwit,Agricultural,Forest-savanna,Congolian,DR Congo,-5.0579,18.9092,450,101,9,1,1,0,1,Van Cakenberghe et al. (1999) - Mammalia; Leirs et al. (1999) - J. Infect. Dis.
+ETH_Alatish,Natural,Sudanian-savanna,Sudanian,Ethiopia,12.2,35.5,600,10,2,2,2,0,1,Habtamu & Bekele (2008) - Trop Ecol
+ETH_Bale1,Natural,Montane,Ethiopian,Ethiopia,7,39.667,3500,4,1,2,2,0,1,Fekdu et al. (2015) Punjab Uni J Zool
+ETH_Bale2,Natural,Montane,Ethiopian,Ethiopia,6.67,39.73,2000,16,3,2,2,0,1,Lavrenchenko et al. (1997) - Ethiopian J Sci
+ETH_Bale3,Natural,Montane,Ethiopian,Ethiopia,6.9,39.92,3700,20,1,2,2,0,1,Lavrenchenko et al. (1997) - Ethiopian J Sci
+ETH_Bale4,Natural,Montane,Ethiopian,Ethiopia,6.85,39.883,4050,10,1,2,2,0,1,Lavrenchenko et al. (1997) - Ethiopian J Sci
+ETH_Bale5,Natural,Montane,Ethiopian,Ethiopia,7.05,39.75,3200,35,1,2,2,0,1,Lavrenchenko et al. (1997) - Ethiopian J Sci
+ETH_Chebera,Natural,Montane,Ethiopian,Ethiopia,6.82,36.69,800,12,1,2,2,0,1,Datiko & Bekele (2013) - J Ecol Nat Env
+ETH_Hugumburda,Natural,Montane,Ethiopian,Ethiopia,12.65,39.55,2000,2,1,1,1,0,1,Adam et al. (2015) - Int J Biod Conserv
+ETH_Hunkolo,Natural,Montane,Ethiopian,Ethiopia,7.4,39.4,3400,49,2,2,2,0,1,Girma et al. (2012) - Trop Ecol
+ETH_Jiren,Mixed,Montane,Ethiopian,Ethiopia,7.69,36.85,1800,2,1,2,2,0,1,Habtamu et al. (2013) - Afr J Ecol
+ETH_Kaka,Natural,Montane,Ethiopian,Ethiopia,7.4,39.1,3500,79,2,2,2,0,1,Girma et al. (2012) - Trop Ecol
+ETH_Simiens2,Natural,Montane,Ethiopian,Ethiopia,13.23,38.04,3250,14,1,1,1,0,1,Craig et al. (2020) - J Mammal
+ETH_Simiens3,Natural,Montane,Ethiopian,Ethiopia,13.26,38.19,3600,53,1,1,1,0,1,Craig et al. (2020) - J Mammal
+ETH_Simiens4,Natural,Montane,Ethiopian,Ethiopia,13.17,38.2,4000,22,1,1,1,0,1,Craig et al. (2020) - J Mammal
+ETH_Yerer,Natural,Montane,Ethiopian,Ethiopia,8.867,38.96,2000,2,1,2,2,0,1,Terefe & Samuel (2015) - Am J BioSci
+GAB_Belinga,Natural,Rainforest,Congolian,Gabon,0.567,12.867,450,160,10,2,3,0,0,Brosset (1988) - Rev Ecol Terre Vie
+GAB_Doudou1,Natural,Rainforest,Congolian,Gabon,-2.14,10.55,110,142,9,2,2,0,1,Nicolas & Colyn (2003) - Canadian J Zool; Nicolas et al. (2003) - Mammalia
+GAB_Doudou2,Natural,Rainforest,Congolian,Gabon,-2.15,10.5,400,79,9,1,1,0,0,Goodman & Hutterer (2004) - Cal Acad Sci Mem
+GAB_Gamba,Natural,Rainforest,Congolian,Gabon,-2.75,10.05,25,7,7,1,1,0,1,O'Brien et al. (2000) - Bull Biol Soc Washington
+GAB_Loango,Natural,Rainforest,Congolian,Gabon,-2.2,9.7,30,6,6,1,1,0,1,O'Brien et al. (2000) - Bull Biol Soc Washington
+GAB_Minkebe,Natural,Rainforest,Congolian,Gabon,2.0867,12.375,600,22,9,1,1,0,0,Goodman et al. (2001) - Mammal Biol
+GAB_Rabi,Natural,Rainforest,Congolian,Gabon,-1.8,10.3,200,9,9,1,1,0,1,O'Brien et al. (2000) - Bull Biol Soc Washington
+GAB_Toucan,Natural,Rainforest,Congolian,Gabon,-1.7,10.2,160,8,8,1,1,0,1,O'Brien et al. (2000) - Bull Biol Soc Washington
+GHA_Accra,Mixed,Guinea-woodland,Congolian,Ghana,6,0,80,14,4,2,2,0,1,"Decher (1997) - Biodiv & Conserv; Decher & Bahian (1999) - J Zool, Lond"
+GHA_Boitano,Natural,Rainforest,Congolian,Ghana,5.53,-2.617,80,5,3,1,1,0,1,Decher et al. (2001) - RAP
+GHA_Draw,Natural,Rainforest,Congolian,Ghana,5.2,-2.4,80,5,3,1,1,0,1,Decher et al. (2001) - RAP
+GHA_Krokosua,Natural,Rainforest,Congolian,Ghana,6.617,-2.85,220,6,3,1,1,0,1,Decher et al. (2001) - RAP
+GIN_Niger,Natural,Sudanian-savanna,Sudanian,Guinea,10.1,-10.4,450,8,8,1,1,1,1,Ziegler et al. (2002) - Oryx
+GIN_Nimba,Natural,Forest-savanna,Congolian,Guinea,7.65,-8.33,800,153,10,2,2,0,0,Denys et al. (2021) - Zoosystema
+GIN_Ziama,Natural,Forest-savanna,Congolian,Guinea,8.1768,-9.3718,600,17,4,1,1,0,1,Mamba et al. (2021) - Mammalia
+KEN_Kasigau,Natural,Montane,Zambezian,Kenya,-3.828,38.658,1300,9,2,1,1,0,0,Oguge (2004) - Mammal Biol
+KEN_Kyulu,Natural,Montane,Zambezian,Kenya,-2.7853,37.869,1600,42,3,1,1,0,0,Oguge (2004) - Mammal Biol
+KEN_Mbololo,Mixed,Montane,Zambezian,Kenya,-3.433,38.667,2200,15,3,1,1,0,0,Oguge (2004) - Mammal Biol
+KEN_Meru,Natural,Savanna,Somalian,Kenya,0.183,38.167,650,86,1,2,2,0,1,Neal (1984) - Z Saugetierk
+KEN_Mukogodo,Natural,Montane,Somalian,Kenya,0.4,37.25,1500,5,2,2,1,0,1,Webala et al. (2006) - Afr J Ecol
+Ken_Nairobi1,Natural,Grassland,Zambezian,Kenya,-1.233,36.8,1750,1,1,2,2,0,1,Ogugue (1995) - Afr J Ecol
+KEN_Sagala,Mixed,Montane,Zambezian,Kenya,-3.5,38.583,1500,16,4,1,1,0,0,Oguge (2004) - Mammal Biol
+KEN_Shimba,Natural,Forest,Zambezian,Kenya,-4.167,39.433,300,14,2,1,1,0,0,Oguge (2004) - Mammal Biol
+KEN_Taita,Mixed,Montane,Zambezian,Kenya,-3.4,38.33,1800,199,6,1,1,0,0,Oguge (2004) - Mammal Biol
+KEN_Turkana1,Natural,Savanna,Somalian,Kenya,3.95,36.2,380,2,1,2,2,0,1,Webala et al. (2010) - Trop Zool
+KEN_Turkana2,Natural,Savanna,Somalian,Kenya,2.567,36.917,1000,2,1,2,2,0,1,Webala et al. (2010) - Trop Zool
+LBR_Nimba1,Mixed,Forest-savanna,Congolian,Liberia,7.51,-8.53,1350,2,1,1,1,0,1,Denys et al. (2021) - Zoosystema
+LBR_Nimba2,Mixed,Forest-savanna,Congolian,Liberia,7.52,-8.53,1000,5,4,1,1,0,1,Denys et al. (2021) - Zoosystema
+LBR_Nimba3,Mixed,Forest-savanna,Congolian,Liberia,7.51,-8.7,420,11,8,1,1,0,1,Denys et al. (2021) - Zoosystema
+LBR_Nimba4,Mixed,Forest-savanna,Congolian,Liberia,7.47,-8.65,450,9,3,1,1,0,1,Denys et al. (2021) - Zoosystema
+LBR_Wologizi,Natural,Forest-savanna,Congolian,Liberia,8.149,-9.879,550,8,5,1,1,0,1,Mamba et al. (2021) - Mammalia
+MLI_Mopti,Mixed,Sahel,Sudanian,Mali,14.89,-4.035,260,200,1,2,3,0,1,Granjon et al. (2005) - J Mammal
+MOZ_Cabora,Natural,Savanna,Zambezian,Mozambique,-15.6,32.75,840,2,1,2,2,0,1,Gliwicz (1985) - Mammalia; Gliwicz (1987) - J Mammal
+MOZ_Gorongosa,Natural,Savanna,Zambezian,Mozambique,-18.99,34.35,120,4,1,1,1,0,1,Monadjem et al. (unpublished)
+MRT_Chott,Natural,Sahel,Sudanian,Mauritania,16.6,-16.43,10,4,2,2,2,0,1,Granjon et al. (2002) - Afr J Ecol
+MWI_Lengwe,Natural,Savanna,Zambezian,Malawi,-16.3,34.733,100,5,1,2,2,0,1,"Happold & Happold (1991) - J Zool, Lond"
+MWI_Liwonde,Natural,Savanna,Zambezian,Malawi,-15.033,35.25,550,1,1,2,2,0,1,"Happold & Happold (1990) - J Zool, Lond"
+MWI_Zomba,Natural,Montane,Zambezian,Malawi,-15.333,25.317,1900,3,1,2,2,0,1,"Happold & Happold (1989a) - J Zool, Lond"
+NAM_Keetmanshoop,Rangeland,Nama-Karoo,Southern,Namibia,-26.39,17.996,1000,10,1,2,2,0,1,Hoffmann & Zeller (2005) Belg J Zool
+NAM_Tumasberg,Natural,Desert,Southern,Namibia,-23.152,15.514,1100,9,1,2,1,0,1,Withers (1979) - Madoqua
+NGA_Gambari,Natural,Rainforest,Congolian,Nigeria,7.15,3.9,170,56,2,2,3,0,1,Happold (1977) - La Terre et al Vie
+NGA_Gotel,Natural,Montane,Sudanian,Nigeria,7,11.7,1600,9,5,1,1,0,1,Hutterer et al. (1992) - Bonn Zool. Bull.
+NGA_Oredo,Mixed,Rainforest,Congolian,Nigeria,6.09,5.485,20,85,6,1,3,0,1,"Angelici & Luiselli (2005) - J Zool, Lond"
+RWA_Volcanoes,Natural,Montane,Congolian,Rwanda,-1.458,29.498,3000,11,3,1,1,0,1,Tuyisingize et al. (2013) - Bonn zool Bull
+SEN_Sabodala,Mixed,Sudanian-savanna,Sudanian,Senegal,13.167,-12.117,250,8,2,2,2,0,1,Ba et al. (2013) - Afr J Ecol
+SLE_Bumbuna1,Natural,Forest-savanna,Sudanian,Sierra_Leone,9.3244,-11.675,310,1,1,1,1,0,1,Weber et al. (2019) Biodiv Data J
+SLE_Bumbuna2,Mixed,Forest-savanna,Sudanian,Sierra_Leone,9.32,-11.527,320,1,1,1,1,0,1,Weber et al. (2019) Biodiv Data J
+SLE_Gola1,Natural,Rainforest,Congolian,Sierra_Leone,7.649,-10.775,150,12,6,1,1,0,1,Monadjem et al. (unpublished)
+SLE_Gola2,Natural,Rainforest,Congolian,Sierra_Leone,7.772,-10.714,150,12,4,1,1,0,1,Monadjem et al. (unpublished)
+SOM_Jubba,Natural,Savanna,Somalian,Somalia,1.067,42.583,20,1,1,1,1,0,1,Varty (1990) - J Trop Ecol
+SWZ_Edwaleni,Natural,Savanna,Southern,Eswatini,-26.546,31.261,750,25,1,2,3,0,1,Monadjem & Perrin (2003) - Afr Zool
+SWZ_Lowveld,Mixed,Savanna,Southern,Eswatini,-26.22,31.88,300,66,3,2,1,0,1,Hurst et al. (2013) - PLoS ONE
+SWZ_Maguga,Natural,Savanna,Southern,Eswatini,-26.067,31.27,650,18,1,2,2,0,1,Avenant (2002) - S Afr J Wildl Res
+SWZ_Mlawula,Natural,Savanna,Southern,Eswatini,-26.208,32,150,9,1,2,2,0,1,Mahlaba & Perrin (2003) - Afr J Ecol
+TCD_Zakouma,Natural,Sudanian-savanna,Sudanian,Chad,10.5,19.8,430,20,1,1,1,0,1,Granjon et al. (2004) - Acta Theriol
+TZA_Katavi,Mixed,Savanna,Zambezian,Tanzania,-6.8,31,1000,94,3,2,2,0,1,Fitzherbert et al. (2007) - Afr J Ecol; Caro et al. (2002) - Biotropica
+TZA_Kilimanjaro1,Natural,Montane,Zambezian,Tanzania,-3.225,37.459,2200,3,3,2,1,1,1,Mulungu et al. (2008) - Mammalia
+TZA_Kilimanjaro2,Natural,Montane,Zambezian,Tanzania,-3.186,37.463,2700,3,3,2,1,1,1,Mulungu et al. (2008) - Mammalia
+TZA_Kilimanjaro3,Natural,Montane,Zambezian,Tanzania,-3.145,37.46,3500,1,1,2,1,1,1,Mulungu et al. (2008) - Mammalia
+TZA_KilimanjaroA1,Natural,Montane,Zambezian,Tanzania,-3.24007,37.45837,2000,70,5,1,1,0,1,Stanleyi et al. (2014) - PLoS ONE
+TZA_KilimanjaroA2,Natural,Montane,Zambezian,Tanzania,-3.20765,37.447,2500,79,5,1,1,0,1,Stanleyi et al. (2014) - PLoS ONE
+TZA_KilimanjaroA3,Natural,Montane,Zambezian,Tanzania,-3.17712,37.44022,3000,88,4,1,1,0,1,Stanleyi et al. (2014) - PLoS ONE
+TZA_KilimanjaroA4,Natural,Montane,Zambezian,Tanzania,-3.14902,37.43555,3500,49,3,1,1,0,1,Stanleyi et al. (2014) - PLoS ONE
+TZA_KilimanjaroA5,Natural,Montane,Zambezian,Tanzania,-3.1261,37.42667,4000,34,3,1,1,0,1,Stanleyi et al. (2014) - PLoS ONE
+TZA_Kingu,Mixed,Savanna,Zambezian,Tanzania,-8.433,38.633,170,21,1,1,1,0,1,Denys et al. (2011) - Zoosystema
+TZA_Minziro,Natural,Montane,Congolian,Tanzania,-1.0942,31.5154,1160,21,6,1,1,0,1,Stanley & Foley (2008) - Mammalia
+TZA_Tarangire,Natural,Savanna,Zambezian,Tanzania,-3.88,36.03,1100,17,4,2,2,0,1,Stanley et al. (2007) - J. East Afr. Nat. Hist.
+TZA_Udzungwa1,Natural,Forest,Zambezian,Tanzania,-8.517,35.9,600,23,5,1,1,0,1,Stanley & Hutterer (2007) - Acta Theriol
+TZA_Udzungwa2,Natural,Montane,Zambezian,Tanzania,-8.51,35.92,920,32,3,1,1,0,1,Stanley & Hutterer (2007) - Acta Theriol
+TZA_Udzungwa3,Natural,Montane,Zambezian,Tanzania,-8.475,35.88,2460,22,5,1,1,0,1,Stanley & Hutterer (2007) - Acta Theriol
+TZA_Udzungwa4,Natural,Montane,Zambezian,Tanzania,-8.35,35.95,2000,68,6,1,1,0,1,Stanley & Hutterer (2007) - Acta Theriol
+TZA_Udzungwa5,Natural,Montane,Zambezian,Tanzania,-7.8478,36.8838,350,52,6,2,2,0,1,Stanley et al. (2005) - J. East Afr. Nat. Hist.; Rovero & Luca (2007) - Mammalia
+TZA_Udzungwa6,Natural,Montane,Zambezian,Tanzania,-7.708,36.909,1200,13,4,2,2,0,1,Stanley et al. (2005) - J. East Afr. Nat. Hist.; Rovero & Luca (2007) - Mammalia
+TZA_Usambara1,Natural,Montane,Zambezian,Tanzania,-5.1058,38.5978,1000,115,10,1,3,0,1,Stanley & Goodman (2011) - Fieldiana
+TZA_Usambara2,Natural,Montane,Zambezian,Tanzania,-5.067,38.4,1200,114,5,1,3,0,1,Stanley & Goodman (2011) - Fieldiana
+UGA_Bwindi1,Natural,Montane,Congolian,Uganda,-0.997,29.616,1550,11,11,2,1,1,1,Kasangaki et al. (2003) - Afr J Ecol
+UGA_Bwindi2,Natural,Montane,Congolian,Uganda,-1.05,29.775,2300,12,12,2,1,1,1,Kasangaki et al. (2003) - Afr J Ecol
+UGA_Rwenzori1,Natural,Montane,Congolian,Uganda,0.344,30.027,2000,31,7,2,2,0,1,Kerbis Peterhans et al. (1998)
+UGA_Rwenzori2,Natural,Montane,Congolian,Uganda,0.341,29.987,2700,19,5,2,2,0,1,Kerbis Peterhans et al. (1998)
+UGA_Rwenzori3,Natural,Montane,Congolian,Uganda,0.321,29.974,3350,12,4,2,2,0,1,Kerbis Peterhans et al. (1998)
+UGA_Rwenzori4,Natural,Montane,Congolian,Uganda,0.3,29.91,4000,2,2,2,2,0,1,Kerbis Peterhans et al. (1998)
+ZAF_Asante,Natural,Montane,Southern,South_Africa,-32.233,24.917,1800,55,1,2,2,0,1,Kok e al. (2012) - Biodiv & Conserv
+ZAF_Baviaanskloof,Natural,Fynbos,Southern,South_Africa,-33.6,24.4,800,2,1,1,1,0,1,Bond et al. (1980) S Afr J Zool
+ZAF_Groenvaley,Degraded,Grassland,Southern,South_Africa,-25.33,30.75,1100,488,3,2,3,0,1,Johnson et al. (2002) - J Mammal
+ZAF_Karkloof,Natural,Forest,Southern,South_Africa,-29.292,30.24,1500,532,2,2,2,0,1,"Wirminghaus & Perrin (1993) - J Zool, Lond"
+ZAF_Karoo2,Rangeland,Succulent-Karoo,Southern,South_Africa,-33.367,24.2,550,11,1,2,1,0,1,Kerley & Eramus (1992) - J Arid Env
+ZAF_Karoo3,Rangeland,Nama-Karoo,Southern,South_Africa,-33.35,23.133,800,12,1,2,1,0,1,Kerley & Eramus (1992) - J Arid Env
+ZAF_Karoo4,Rangeland,Nama-Karoo,Southern,South_Africa,-33.233,22.617,850,3,1,2,1,0,1,Kerley & Eramus (1992) - J Arid Env
+ZAF_Karoo5,Rangeland,Succulent-Karoo,Southern,South_Africa,-33.45,20.05,800,11,1,2,1,0,1,Kerley & Eramus (1992) - J Arid Env
+ZAF_Karoo6,Rangeland,Succulent-Karoo,Southern,South_Africa,-33.167,19.733,700,33,2,2,1,0,1,Kerley & Eramus (1992) - J Arid Env
+ZAF_Knersvlakte,Natural,Succulent-Karoo,Southern,South_Africa,-31.4,18.5,250,41,2,1,1,0,1,Bosing et al. (2014) J Arid Enviro
+ZAF_Mankwe,Natural,Savanna,Southern,South_Africa,-25.25,27.283,1100,24,2,2,3,0,1,Yarnell et al. (2007) - Oecologia
+ZAF_Mariepskop,Natural,Montane,Southern,South_Africa,-24.5,30.967,1700,13,2,1,1,0,1,Symes et al. (2013) - Austral Ecol
+ZAF_MtZebra,Natural,Montane,Southern,South_Africa,-32.3,25.4,1800,10,1,2,2,0,1,Kok e al. (2012) - Biodiv & Conserv
+ZAF_Nossob,Natural,Savanna,Southern,South_Africa,-25.417,20.599,950,3,1,1,1,0,1,Kerley et al. (1990) - S Afr J Wildl Res
+ZAF_Nyslvley,Natural,Savanna,Southern,South_Africa,-24.64,28.68,1100,1,1,1,1,0,1,"Korn (1992) - J Zool, Lond"
+ZAF_Phinda,Natural,Savanna,Southern,South_Africa,-27.75,32.3,50,53,5,2,2,0,1,Rautenbach et al. (2014) - Afr J Ecol
+ZAF_Pretoriuskop,Natural,Savanna,Zambezian,South_Africa,-25.17,31.29,600,9,2,1,1,0,1,Kern (1981) - Koedoe
+ZAF_RichardsBay,Degraded,Forest,Southern,South_Africa,-28.7156,32.1847,50,52,3,2,2,0,1,Ferreira & Van Aarde (1996) - Afr J Ecol
+ZAF_Rolfontein,Natural,Grassland,Southern,South_Africa,-30.009,24.765,1250,69,2,2,2,0,1,Jooste & Palmer (1982) - S Afr J Wildl Res
+ZAF_Satara,Natural,Savanna,Zambezian,South_Africa,-24.39,31.79,250,5,1,1,1,0,1,Kern (1981) - Koedoe
+ZAF_Sneeuberg,Natural,Montane,Southern,South_Africa,-31.7,24.633,1800,25,2,2,2,0,1,Kok e al. (2012) - Biodiv & Conserv
+ZAF_Soutpansberg,Natural,Montane,Southern,South_Africa,-23.034,29.431,1400,36,3,2,2,0,1,Taylor et al. (2014) - J Trop Ecol
+ZAF_Swartberg,Natural,Fynbos,Southern,South_Africa,-33.33,22.05,1200,18,1,1,1,0,1,Bond et al. (1980) S Afr J Zool
+ZAF_Telperion,Natural,Grassland,Southern,South_Africa,-25.633,28.883,1400,24,3,2,1,0,1,Gumbi et al. (2018) - Afr Zool
+ZAF_Wakefield,Natural,Montane,Southern,South_Africa,-29.48,29.89,1450,86,2,2,1,0,1,Simelane et al. (2017) - Mammalia
+ZAF_WillemPretorius,Natural,Grassland,Southern,South_Africa,-28.3,27.18,1400,8,1,2,2,0,1,Avenant (2000) - S Afr J Wildl Res
+ZMB_Kafue1,Natural,Savanna,Zambezian,Zambia,-14.383,26.041,1100,4,1,1,1,0,1,Namukonde et al. (2017) - Tropical Conservation Science
+ZMB_Kafue2,Natural,Savanna,Zambezian,Zambia,-14.208,25.656,1100,5,3,1,1,0,1,Namukonde et al. (2017) - Tropical Conservation Science
+ZMB_Kafue3,Natural,Savanna,Zambezian,Zambia,-14.297,25.92,1100,6,3,1,1,0,1,Namukonde et al. (2017) - Tropical Conservation Science
+ZWE_Sengwa,Natural,Savanna,Zambezian,Zimbabwe,-18.167,28.233,900,14,2,2,2,0,1,"Linzey & Kesner (1997) - J Zool, Lond"

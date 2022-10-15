@@ -1,98 +1,98 @@
-Location,Land_cover,Biome,Biogeogr,Country,Latitude,Longitude,Elevation,Abundance,Richness,Seasons,Years,PresAbs
-AGO_Okavango,Natural,Savanna,Southern,Angola,-13.1,18.2,1440,11,11,2,3,1
-BDI_Bururi,Natural,Forest,Congolian,Burundi,-3.9383,29.5969,1880,43,8,2,1,0
-BWA_Xugana,Natural,Savanna,Southern,Botswana,-19.0833,23.05,1000,100,19,1,1,0
-CAF_Dzanga,Natural,Rainforest,Congolian,CAR,2.95,16.267,410,17,17,1,2,1
-CAF_Floris,Natural,Savanna,Sudanian,CAR,9.3167,21.2,500,146,19,2,3,0
-CAF_Mbaiki,Mixed,Rainforest,Congolian,CAR,3.9,18,550,28,10,1,1,0
-CIV_Comoe,Natural,Forest-savanna,Sudanian,Ivory_Coast,8.75,-3.817,200,2380,53,2,3,0
-CIV_Tai,Natural,Rainforest,Congolian,Ivory_Coast,5.083,-7.35,200,1555,36,2,3,0
-CMR_Cameroon1,Natural,Rainforest,Congolian,Cameroon,4.192,9.38,470,200,15,2,2,0
-CMR_Cameroon2,Natural,Rainforest,Congolian,Cameroon,4.147,9.2026,1400,169,10,2,2,0
-CMR_Cameroon3,Natural,Montane,Congolian,Cameroon,4.144,9.2026,1700,43,4,2,2,0
-CMR_Cameroon4,Natural,Montane,Congolian,Cameroon,4.146,9.169,2200,153,5,2,2,0
-CMR_Dja,Natural,Rainforest,Congolian,Cameroon,3.1,13,700,269,27,2,2,0
-CMR_Maroua,Natural,Savanna,Sudanian,Cameroon,10.597,14.315,400,404,16,1,1,0
-CMR_Mpem,Natural,Forest-savanna,Congolian,Cameroon,5.275,11.666,610,59,14,2,1,0
-COD_Epulu,Natural,Rainforest,Congolian,DR_Congo,1.3981,28.5687,770,76,6,1,1,0
-COD_Kitwit,Agricultural,Forest-savanna,Congolian,DR_Congo,-5.0579,18.9092,450,541,20,1,1,0
-COD_Lomami,Natural,Rainforest,Congolian,DR_Congo,-1.3832,25.0387,460,69,8,1,1,0
-COD_Yangambi,Natural,Rainforest,Congolian,DR_Congo,0.7596,24.4753,450,55,6,1,1,0
-ETH_Alatish,Natural,Savanna,Sudanian,Ethiopia,12.3,35.7667,590,119,20,1,1,0
-ETH_Babille,Natural,Montane,Somalian,Ethiopia,9.15,42.267,1220,23,8,1,1,0
-ETH_Bale,Natural,Montane,Ethiopian,Ethiopia,6.633,39.733,1900,17,7,2,2,0
-ETH_Beletta,Natural,Montane,Ethiopian,Ethiopia,7.533,36.55,2050,30,9,2,2,0
-ETH_Godare,Natural,Montane,Ethiopian,Ethiopia,7.283,35.267,1360,18,18,1,1,1
-ETH_Simien,Natural,Montane,Ethiopian,Ethiopia,13.2333,38.05,3250,2,2,1,1,1
-GAB_Maboumine,Natural,Rainforest,Congolian,Gabon,-0.7541,10.5508,60,79,19,2,1,0
-GIN_Bero,Natural,Forest-savanna,Congolian,Guinea,8.133,-8.567,600,119,18,1,1,0
-GIN_Diecke,Natural,Forest-savanna,Congolian,Guinea,7.5,-8.83,400,118,16,1,1,0
-GIN_Niger,Natural,Savanna,Sudanian,Guinea,10.1,-10.4,450,18,18,1,1,1
-GIN_Nimba1,Natural,Forest-savanna,Congolian,Guinea,7.6296,-8.4619,800,93,12,2,1,0
-GIN_Nimba2,Natural,Montane,Congolian,Guinea,7.6607,-8.3713,1500,70,7,2,1,0
-GIN_Simandou1,Natural,Forest-savanna,Sudanian,Guinea,8.497,-8.913,750,245,27,2,1,0
-GIN_Simandou2,Natural,Montane,Sudanian,Guinea,8.549,-8.899,1100,341,20,2,1,0
-GIN_Ziama1,Natural,Forest-savanna,Congolian,Guinea,8.25,-9.25,600,30,30,1,1,1
-GIN_Ziama2,Natural,Forest-savanna,Congolian,Guinea,8.1768,-9.3718,600,67,19,1,1,0
-GNB_Cacheu,Natural,Savanna,Sudanian,Guinea-Bissau,12.26,-16.1,20,15,15,1,1,1
-GNB_Cantanhez,Natural,Savanna,Sudanian,Guinea-Bissau,11.24,-14.95,20,15,15,1,1,1
-KEN_Bogoria,Agricultural,Savanna,Zambezian,Kenya,0.25,36.1,1050,232,11,1,1,0
-KEN_Kakamega,Natural,Rainforest,Zambezian,Kenya,0.35,34.88,1550,4983,26,2,1,0
-KEN_Masalani,Natural,Savanna,Somalian,Kenya,-2.3,38.1167,700,395,24,2,2,0
-KEN_Meru,Natural,Savanna,Somalian,Kenya,0.14,38.18,600,452,14,2,1,0
-KEN_Sokoke1,Natural,Coastal Forest,Somalian,Kenya,-3.271,39.937,50,890,19,2,2,0
-KEN_Sokoke2,Agricultural,Coastal Forest,Somalian,Kenya,-3.321,40.022,30,4327,23,2,2,0
-LBR_Nimba1,Natural,Forest-savanna,Congolian,Liberia,7.5042,-8.5895,500,71,30,1,3,0
-LBR_Nimba2,Natural,Forest-savanna,Congolian,Liberia,7.5404,-8.5005,800,22,13,1,3,0
-LBR_Nimba3,Natural,Montane,Congolian,Liberia,7.5166,-8.522,1100,14,11,1,3,0
-LBR_Wologizi,Natural,Forest-savanna,Congolian,Liberia,8.149,-9.879,550,87,19,1,1,0
-MLI_Bandiagara,Mixed,Savanna,Sudanian,Mali,14.333,-3.6,400,4,4,1,2,1
-MLI_Bla,Mixed,Savanna,Sudanian,Mali,12.93,-5.75,300,5,5,1,2,1
-MLI_Kita,Mixed,Savanna,Sudanian,Mali,13.033,-9.483,350,5,5,1,2,1
-MOZ_Codzo,Natural,Savanna,Zambezian,Mozambique,-18.564,34.8722,240,69,26,1,1,0
-MOZ_Mabu,Natural,Montane,Zambezian,Mozambique,-16.28,36.38,1300,10,10,2,3,1
-MWI_Liwonde,Natural,Savanna,Zambezian,Malawi,-15.033,35.25,500,128,19,2,1,0
-MWI_Mulanje1,Natural,Savanna,Zambezian,Malawi,-16.0278,35.5221,720,219,21,1,2,0
-MWI_Mulanje2,Natural,Montane,Zambezian,Malawi,-15.9488,35.6515,1220,385,16,1,2,0
-MWI_Mulanje3,Natural,Montane,Zambezian,Malawi,-15.9248,35.6385,2000,33,6,1,2,0
-MWI_Zomba1,Natural,Savanna,Zambezian,Malawi,-15.383,35.317,900,832,21,2,1,0
-MWI_Zomba2,Natural,Montane,Zambezian,Malawi,-15.33,35.317,1600,39,8,1,1,0
-NAM_Gobabeb,Natural,Desert,Southern,Namibia,-23.5606,15.0404,400,8,8,1,1,1
-NER_W,Natural,Savanna,Sudanian,Niger,12.38,2.56,240,95,15,2,1,0
-NGA_Delta,Mixed,Rainforest,Congolian,Nigeria,4.7764,6.8991,10,143,11,2,3,0
-NGA_Edo1,Agricultural,Rainforest,Congolian,Nigeria,6.559,6.476,220,131,9,2,1,0
-NGA_Edo2,Natural,Rainforest,Congolian,Nigeria,6.34,5.345,80,63,12,2,1,0
-NGA_Edo3,Agricultural,Forest-savanna,Sudanian,Nigeria,7.41,6.244,500,45,11,2,1,0
-NGA_Gotel,Natural,Montane,Sudanian,Nigeria,7,11.7,1600,11,11,1,1,1
-SLE_Gola1,Natural,Rainforest,Congolian,Sierra_Leone,7.3707,-11.2617,110,58,20,1,1,0
-SLE_Gola2,Natural,Rainforest,Congolian,Sierra_Leone,7.8366,-10.6438,200,32,13,1,1,0
-SLE_Gola3,Natural,Rainforest,Congolian,Sierra_Leone,7.607,-11.0144,280,113,22,1,1,0
-SLE_Seli,Natural,Savanna,Sudanian,Sierra_Leone,9.344,-11.593,300,364,39,1,2,0
-SOM_Jubba,Natural,Savanna,Somalian,Somalia,1.067,42.583,20,61,8,1,1,0
-SWZ_IYSIS,Natural,Savanna,Southern,Eswatini,-25.975,31.7192,280,146,16,2,2,0
-SWZ_Lubombo,Natural,Savanna,Southern,Eswatini,-26.1,32,200,646,20,2,2,0
-TZA_Coastal1,Natural,Coastal Forest,Zambezian,Tanzania,-5.569,38.65,240,103,15,1,1,0
-TZA_Coastal2,Natural,Coastal Forest,Zambezian,Tanzania,-6.9,39,200,143,14,1,1,0
-TZA_Minziro,Natural,Montane,Congolian,Tanzania,-1.0942,31.5154,1160,54,11,1,1,0
-TZA_Tarangire,Natural,Savanna,Zambezian,Tanzania,-3.88,36.03,1100,19,7,2,3,0
-TZA_Udzungwa1,Natural,Montane,Zambezian,Tanzania,-7.8478,36.8838,350,9,8,2,1,1
-TZA_Udzungwa2,Natural,Montane,Zambezian,Tanzania,-7.708,36.909,1200,13,12,2,1,1
-TZA_Usambara1,Natural,Montane,Zambezian,Tanzania,-5.1058,38.5978,1000,72,16,1,3,0
-TZA_Usambara2,Natural,Montane,Zambezian,Tanzania,-5.067,38.4,1200,83,11,1,3,0
-ZAF_Algeria,Natural,Fynbos,Southern,South_Africa,-32.3667,19.05,480,31,10,2,1,0
-ZAF_DeHel,Natural,Fynbos,Southern,South_Africa,-33.0833,19.0833,570,18,7,2,1,0
-ZAF_DeHoop,Natural,Fynbos,Southern,South_Africa,-34.4333,20.4167,70,17,7,2,1,0
-ZAF_Durban,Natural,Savanna,Southern,South_Africa,-29.8333,30.9333,230,56,17,1,1,0
-ZAF_Goodhouse,Natural,Desert,Southern,South_Africa,-28.9333,18.1167,310,29,10,2,1,0
-ZAF_Knysna,Natural,Fynbos,Southern,South_Africa,-33.95,23.1667,420,20,7,2,1,0
-ZAF_Kruger1,Natural,Savanna,Zambezian,South_Africa,-24.966,31.704,250,167,16,1,1,0
-ZAF_Kruger2,Natural,Savanna,Zambezian,South_Africa,-23.723,31.156,330,253,16,1,1,0
-ZAF_Kruger3,Natural,Savanna,Zambezian,South_Africa,-22.437,31.227,230,149,16,1,1,0
-ZAF_Pafuri,Natural,Savanna,Zambezian,South_Africa,-22.4333,31.3167,210,133,27,1,1,0
-ZAF_Soutpansberg,Natural,Montane,Southern,South_Africa,-23.0361,29.4529,1200,40,16,2,3,0
-ZAF_Sudwala,Natural,Savanna,Southern,South_Africa,-25.3667,30.7,1200,95,19,2,1,0
-ZAR_Kalahari,Natural,Savanna,Southern,South_Africa,-26.47,20.61,880,3,3,1,1,1
-ZMB_Mongu,Natural,Savanna,Zambezian,Zambia,-15.5,23.2,1000,20,20,1,1,1
-ZWE_Kanyati,Natural,Savanna,Zambezian,Zimbabwe,-16.944,28.627,1100,83,8,1,1,0
-ZWE_Mana,Natural,Savanna,Zambezian,Zimbabwe,-15.95,29.43,450,220,10,1,1,0
-ZWE_Sengwa,Natural,Savanna,Zambezian,Zimbabwe,-18.1667,28.2167,870,242,23,2,1,0
+Location,Land_cover,Biome,Biogeogr,Country,Latitude,Longitude,Elevation,Abundance,Richness,Seasons,Years,PresAbs,Reference
+AGO_Okavango,Natural,Savanna,Southern,Angola,-13.1,18.2,1440,11,11,2,3,1,Taylor et al. (2018) - ZooKeys
+BDI_Bururi,Natural,Forest,Congolian,Burundi,-3.9383,29.5969,1880,43,8,2,1,0,Kerbis Peterhans et al. (2010) - J E Afr Nat Hist
+BWA_Xugana,Natural,Savanna,Southern,Botswana,-19.0833,23.05,1000,100,19,1,1,0,Archer (1975) - Botswana Notes & Records
+CAF_Dzanga,Natural,Rainforest,Congolian,CAR,2.95,16.267,410,17,17,1,2,1,Lunde et al. (2001) - Mammalia
+CAF_Floris,Natural,Savanna,Sudanian,CAR,9.3167,21.2,500,146,19,2,3,0,Schlitter et al. (1982) - Ann. Carnegie Mus.
+CAF_Mbaiki,Mixed,Rainforest,Congolian,CAR,3.9,18,550,28,10,1,1,0,Schlitter et al. (1982) - Ann. Carnegie Mus.
+CIV_Comoe,Natural,Forest-savanna,Sudanian,Ivory_Coast,8.75,-3.817,200,2380,53,2,3,0,Fahr & Kalko (2011) - Ecography
+CIV_Tai,Natural,Rainforest,Congolian,Ivory_Coast,5.083,-7.35,200,1555,36,2,3,0,Fahr & Kalko (2011) - Ecography
+CMR_Cameroon1,Natural,Rainforest,Congolian,Cameroon,4.192,9.38,470,200,15,2,2,0,Mongombe et al. (2019) - Tropical Zoology
+CMR_Cameroon2,Natural,Rainforest,Congolian,Cameroon,4.147,9.2026,1400,169,10,2,2,0,Mongombe et al. (2019) - Tropical Zoology
+CMR_Cameroon3,Natural,Montane,Congolian,Cameroon,4.144,9.2026,1700,43,4,2,2,0,Mongombe et al. (2019) - Tropical Zoology
+CMR_Cameroon4,Natural,Montane,Congolian,Cameroon,4.146,9.169,2200,153,5,2,2,0,Mongombe et al. (2019) - Tropical Zoology
+CMR_Dja,Natural,Rainforest,Congolian,Cameroon,3.1,13,700,269,27,2,2,0,Bakwo (2009) - Le Vespere
+CMR_Maroua,Natural,Savanna,Sudanian,Cameroon,10.597,14.315,400,404,16,1,1,0,Bakwo (2014) - Biodiversity
+CMR_Mpem,Natural,Forest-savanna,Congolian,Cameroon,5.275,11.666,610,59,14,2,1,0,Atagana et al. (2018) - Biodiversity J.
+COD_Epulu,Natural,Rainforest,Congolian,DR_Congo,1.3981,28.5687,770,76,6,1,1,0,Malekani et al. (2018) - Nature Conserv. Res.
+COD_Kitwit,Agricultural,Forest-savanna,Congolian,DR_Congo,-5.0579,18.9092,450,541,20,1,1,0,Van Cakenberghe et al. (1999) - Mammalia; Leirs et al. (1999) - J. Infect. Dis.
+COD_Lomami,Natural,Rainforest,Congolian,DR_Congo,-1.3832,25.0387,460,69,8,1,1,0,Malekani et al. (2018) - Nature Conserv. Res.
+COD_Yangambi,Natural,Rainforest,Congolian,DR_Congo,0.7596,24.4753,450,55,6,1,1,0,Malekani et al. (2018) - Nature Conserv. Res.
+ETH_Alatish,Natural,Savanna,Sudanian,Ethiopia,12.3,35.7667,590,119,20,1,1,0,Kruskop et al. (2016) Lynx
+ETH_Babille,Natural,Montane,Somalian,Ethiopia,9.15,42.267,1220,23,8,1,1,0,Lavrenchenko et al. (2010) - Russian J. Theriol.
+ETH_Bale,Natural,Montane,Ethiopian,Ethiopia,6.633,39.733,1900,17,7,2,2,0,Lavrenchenko et al. (2004) Bonn Zool. Bull.
+ETH_Beletta,Natural,Montane,Ethiopian,Ethiopia,7.533,36.55,2050,30,9,2,2,0,Lavrenchenko et al. (2004) Bonn Zool. Bull.
+ETH_Godare,Natural,Montane,Ethiopian,Ethiopia,7.283,35.267,1360,18,18,1,1,1,Lavrenchenko et al. (2008) - Russian J. Theriol.; Lavrenchenko et al. (2004) Bonn Zool. Bull.
+ETH_Simien,Natural,Montane,Ethiopian,Ethiopia,13.2333,38.05,3250,2,2,1,1,1,Kruskop & Lavrenchenko (2006) - Russian J. Theriol.
+GAB_Maboumine,Natural,Rainforest,Congolian,Gabon,-0.7541,10.5508,60,79,19,2,1,0,Monadjem & Dower (2012) - Unpublished report
+GIN_Bero,Natural,Forest-savanna,Congolian,Guinea,8.133,-8.567,600,119,18,1,1,0,Fahr et al. (2006) - RAP
+GIN_Diecke,Natural,Forest-savanna,Congolian,Guinea,7.5,-8.83,400,118,16,1,1,0,Fahr et al. (2006) - RAP
+GIN_Niger,Natural,Savanna,Sudanian,Guinea,10.1,-10.4,450,18,18,1,1,1,Ziegler et al. (2002) - Oryx
+GIN_Nimba1,Natural,Forest-savanna,Congolian,Guinea,7.6296,-8.4619,800,93,12,2,1,0,Denys et al. (2013) - Hystrix
+GIN_Nimba2,Natural,Montane,Congolian,Guinea,7.6607,-8.3713,1500,70,7,2,1,0,Denys et al. (2013) - Hystrix
+GIN_Simandou1,Natural,Forest-savanna,Sudanian,Guinea,8.497,-8.913,750,245,27,2,1,0,Decher et al. (2015) - Acta Chiropterol.; Fahr & Ebigbo (2003) - Acta Chiropterol.
+GIN_Simandou2,Natural,Montane,Sudanian,Guinea,8.549,-8.899,1100,341,20,2,1,0,Decher et al. (2015) - Acta Chiropterol.; Fahr & Ebigbo (2003) - Acta Chiropterol.
+GIN_Ziama1,Natural,Forest-savanna,Congolian,Guinea,8.25,-9.25,600,30,30,1,1,1,Fahr et al. (2006) - RAP
+GIN_Ziama2,Natural,Forest-savanna,Congolian,Guinea,8.1768,-9.3718,600,67,19,1,1,0,Mamba et al. (2020)
+GNB_Cacheu,Natural,Savanna,Sudanian,Guinea-Bissau,12.26,-16.1,20,15,15,1,1,1,Rainho & Palmeirim (2017) - Hystrix; Rainho & Franco (2001)
+GNB_Cantanhez,Natural,Savanna,Sudanian,Guinea-Bissau,11.24,-14.95,20,15,15,1,1,1,Rainho & Palmeirim (2017) - Hystrix; Rainho et al. (2007)
+KEN_Bogoria,Agricultural,Savanna,Zambezian,Kenya,0.25,36.1,1050,232,11,1,1,0,Wechuli et al. (2017) - Afr. J. Ecol
+KEN_Kakamega,Natural,Rainforest,Zambezian,Kenya,0.35,34.88,1550,4983,26,2,1,0,Webala et al. (2019) - J. Trop. Ecol.
+KEN_Masalani,Natural,Savanna,Somalian,Kenya,-2.3,38.1167,700,395,24,2,2,0,O'Shea & Vaughan (1980) - Mammalia
+KEN_Meru,Natural,Savanna,Somalian,Kenya,0.14,38.18,600,452,14,2,1,0,Webala et al. (2004) - Afr. J. Ecol.
+KEN_Sokoke1,Natural,Coastal Forest,Somalian,Kenya,-3.271,39.937,50,890,19,2,2,0,Musila et al. (2019) - Mammalia
+KEN_Sokoke2,Agricultural,Coastal Forest,Somalian,Kenya,-3.321,40.022,30,4327,23,2,2,0,Musila et al. (2019) - Mammalia
+LBR_Nimba1,Natural,Forest-savanna,Congolian,Liberia,7.5042,-8.5895,500,71,30,1,3,0,Monadjem et al. (2018) - Roy. Soc. Open Sci.
+LBR_Nimba2,Natural,Forest-savanna,Congolian,Liberia,7.5404,-8.5005,800,22,13,1,3,0,Monadjem et al. (2018) - Roy. Soc. Open Sci.
+LBR_Nimba3,Natural,Montane,Congolian,Liberia,7.5166,-8.522,1100,14,11,1,3,0,Monadjem et al. (2018) - Roy. Soc. Open Sci.
+LBR_Wologizi,Natural,Forest-savanna,Congolian,Liberia,8.149,-9.879,550,87,19,1,1,0,Mamba et al. (2020) - Mammalia
+MLI_Bandiagara,Mixed,Savanna,Sudanian,Mali,14.333,-3.6,400,4,4,1,2,1,Meinig (2000) - Bonn. Zool. Beitr.
+MLI_Bla,Mixed,Savanna,Sudanian,Mali,12.93,-5.75,300,5,5,1,2,1,Meinig (2000) - Bonn. Zool. Beitr.
+MLI_Kita,Mixed,Savanna,Sudanian,Mali,13.033,-9.483,350,5,5,1,2,1,Meinig (2000) - Bonn. Zool. Beitr.
+MOZ_Codzo,Natural,Savanna,Zambezian,Mozambique,-18.564,34.8722,240,69,26,1,1,0,Monadjem et al. (2010) - Acta Chiropterol.; Guyton et al. (2018) Biodiversity survey report
+MOZ_Mabu,Natural,Montane,Zambezian,Mozambique,-16.28,36.38,1300,10,10,2,3,1,Bayliss et al. (2014) - Oryx
+MWI_Liwonde,Natural,Savanna,Zambezian,Malawi,-15.033,35.25,500,128,19,2,1,0,Happold & Happold (1987) - Mammalia
+MWI_Mulanje1,Natural,Savanna,Zambezian,Malawi,-16.0278,35.5221,720,219,21,1,2,0,Curran et al. (2012) - J. Trop. Ecol.
+MWI_Mulanje2,Natural,Montane,Zambezian,Malawi,-15.9488,35.6515,1220,385,16,1,2,0,Curran et al. (2012) - J. Trop. Ecol.
+MWI_Mulanje3,Natural,Montane,Zambezian,Malawi,-15.9248,35.6385,2000,33,6,1,2,0,Curran et al. (2012) - J. Trop. Ecol.
+MWI_Zomba1,Natural,Savanna,Zambezian,Malawi,-15.383,35.317,900,832,21,2,1,0,Happold & Happold (1987) - Mammalia
+MWI_Zomba2,Natural,Montane,Zambezian,Malawi,-15.33,35.317,1600,39,8,1,1,0,Happold & Happold (1987) - Mammalia
+NAM_Gobabeb,Natural,Desert,Southern,Namibia,-23.5606,15.0404,400,8,8,1,1,1,Stuart (1975) - Madoqua [based partially on Meester (1962) - Ann. Trans. Mus.]
+NER_W,Natural,Savanna,Sudanian,Niger,12.38,2.56,240,95,15,2,1,0,Poche (1975) - Mammalia
+NGA_Delta,Mixed,Rainforest,Congolian,Nigeria,4.7764,6.8991,10,143,11,2,3,0,Angelici et al. (2000) - Hystrix
+NGA_Edo1,Agricultural,Rainforest,Congolian,Nigeria,6.559,6.476,220,131,9,2,1,0,Tanshi et al. (2019) - J. Threat. Taxa
+NGA_Edo2,Natural,Rainforest,Congolian,Nigeria,6.34,5.345,80,63,12,2,1,0,Tanshi et al. (2019) - J. Threat. Taxa
+NGA_Edo3,Agricultural,Forest-savanna,Sudanian,Nigeria,7.41,6.244,500,45,11,2,1,0,Tanshi et al. (2019) - J. Threat. Taxa
+NGA_Gotel,Natural,Montane,Sudanian,Nigeria,7,11.7,1600,11,11,1,1,1,Hutterer et al. (1992) - Bonn Zool. Bull.
+SLE_Gola1,Natural,Rainforest,Congolian,Sierra_Leone,7.3707,-11.2617,110,58,20,1,1,0,Weber & Fahr (2007) - RSPB report
+SLE_Gola2,Natural,Rainforest,Congolian,Sierra_Leone,7.8366,-10.6438,200,32,13,1,1,0,Weber & Fahr (2007) - RSPB report
+SLE_Gola3,Natural,Rainforest,Congolian,Sierra_Leone,7.607,-11.0144,280,113,22,1,1,0,Weber & Fahr (2007) - RSPB report
+SLE_Seli,Natural,Savanna,Sudanian,Sierra_Leone,9.344,-11.593,300,364,39,1,2,0,Weber et al. (2019) - Biodiversity Data Journal; Decher et al. (2010) - Mammalia
+SOM_Jubba,Natural,Savanna,Somalian,Somalia,1.067,42.583,20,61,8,1,1,0,Varty (1990) - J Trop Ecol
+SWZ_IYSIS,Natural,Savanna,Southern,Eswatini,-25.975,31.7192,280,146,16,2,2,0,Monadjem et al. (2021) - Europ. J. Wildlife Res.
+SWZ_Lubombo,Natural,Savanna,Southern,Eswatini,-26.1,32,200,646,20,2,2,0,Monadjem & Reside (2008) - Acta Chiropterol.
+TZA_Coastal1,Natural,Coastal Forest,Zambezian,Tanzania,-5.569,38.65,240,103,15,1,1,0,Cockle et al. (1998) - Mammalia
+TZA_Coastal2,Natural,Coastal Forest,Zambezian,Tanzania,-6.9,39,200,143,14,1,1,0,Cockle et al. (1998) - Mammalia
+TZA_Minziro,Natural,Montane,Congolian,Tanzania,-1.0942,31.5154,1160,54,11,1,1,0,Stanley & Foley (2008) - Mammalia
+TZA_Tarangire,Natural,Savanna,Zambezian,Tanzania,-3.88,36.03,1100,19,7,2,3,0,Stanley et al. (2007) - J. East Afr. Nat. Hist.
+TZA_Udzungwa1,Natural,Montane,Zambezian,Tanzania,-7.8478,36.8838,350,9,8,2,1,1,Stanley et al. (2005) - J. East Afr. Nat. Hist.; Rovero & Luca (2007) - Mammalia
+TZA_Udzungwa2,Natural,Montane,Zambezian,Tanzania,-7.708,36.909,1200,13,12,2,1,1,Stanley et al. (2005) - J. East Afr. Nat. Hist.; Rovero & Luca (2007) - Mammalia
+TZA_Usambara1,Natural,Montane,Zambezian,Tanzania,-5.1058,38.5978,1000,72,16,1,3,0,Stanley & Goodman (2011) - Fieldiana
+TZA_Usambara2,Natural,Montane,Zambezian,Tanzania,-5.067,38.4,1200,83,11,1,3,0,Stanley & Goodman (2011) - Fieldiana
+ZAF_Algeria,Natural,Fynbos,Southern,South_Africa,-32.3667,19.05,480,31,10,2,1,0,Schoeman & Jacobs (2008) - PloS ONE
+ZAF_DeHel,Natural,Fynbos,Southern,South_Africa,-33.0833,19.0833,570,18,7,2,1,0,Schoeman & Jacobs (2008) - PloS ONE
+ZAF_DeHoop,Natural,Fynbos,Southern,South_Africa,-34.4333,20.4167,70,17,7,2,1,0,Schoeman & Jacobs (2008) - PloS ONE
+ZAF_Durban,Natural,Savanna,Southern,South_Africa,-29.8333,30.9333,230,56,17,1,1,0,Schoeman & Waddington (2011) - Afr. Zool.; Fruitbats from Taylor (1998)
+ZAF_Goodhouse,Natural,Desert,Southern,South_Africa,-28.9333,18.1167,310,29,10,2,1,0,Schoeman & Jacobs (2008) - PloS ONE
+ZAF_Knysna,Natural,Fynbos,Southern,South_Africa,-33.95,23.1667,420,20,7,2,1,0,Schoeman & Jacobs (2008) - PloS ONE
+ZAF_Kruger1,Natural,Savanna,Zambezian,South_Africa,-24.966,31.704,250,167,16,1,1,0,Rautenbach et al. (1996) - Can J Zool
+ZAF_Kruger2,Natural,Savanna,Zambezian,South_Africa,-23.723,31.156,330,253,16,1,1,0,Rautenbach et al. (1996) - Can J Zool
+ZAF_Kruger3,Natural,Savanna,Zambezian,South_Africa,-22.437,31.227,230,149,16,1,1,0,Rautenbach et al. (1996) - Can J Zool
+ZAF_Pafuri,Natural,Savanna,Zambezian,South_Africa,-22.4333,31.3167,210,133,27,1,1,0,Aldridge & Rautenbach (1987) - J Anim. Ecol.; Fruitbats from Rautenbach (1981)
+ZAF_Soutpansberg,Natural,Montane,Southern,South_Africa,-23.0361,29.4529,1200,40,16,2,3,0,Monadjem et al. (2018) - Roy. Soc. Open Sci.
+ZAF_Sudwala,Natural,Savanna,Southern,South_Africa,-25.3667,30.7,1200,95,19,2,1,0,Schoeman & Jacobs (2008) - PloS ONE
+ZAR_Kalahari,Natural,Savanna,Southern,South_Africa,-26.47,20.61,880,3,3,1,1,1,Rautenbach (1971) - Koedoe
+ZMB_Mongu,Natural,Savanna,Zambezian,Zambia,-15.5,23.2,1000,20,20,1,1,1,Cotterill (2000) - Zambezi Basin Wetlands
+ZWE_Kanyati,Natural,Savanna,Zambezian,Zimbabwe,-16.944,28.627,1100,83,8,1,1,0,Fenton (1998) - Conserv. Biol.
+ZWE_Mana,Natural,Savanna,Zambezian,Zimbabwe,-15.95,29.43,450,220,10,1,1,0,Fenton (1998) - Conserv. Biol.
+ZWE_Sengwa,Natural,Savanna,Zambezian,Zimbabwe,-18.1667,28.2167,870,242,23,2,1,0,Fenton (1975) - Life Sci. Contr. Roy. Ont. Mus.; Fenton & Thomas (1980)
